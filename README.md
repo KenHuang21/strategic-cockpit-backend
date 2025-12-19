@@ -71,15 +71,63 @@ These files are automatically committed and deployed to the frontend.
 
 ## Notification System
 
-### Calendar Notifications
+### Monthly Catalyst Radar
 
-**12-Hour Warning:**
-- Triggered 12 hours before event
-- Shows forecast, impact level
+The Monthly Catalyst Radar tracks upcoming US economic events with automated Telegram notifications.
 
-**Data Release:**
-- Triggered when actual vs forecast available
-- Shows deviation from forecast
+#### Update Frequency
+- **Scraping**: Every hour (at :00 minutes)
+- **Data Range**: Rolling 4-week window
+- **Notifications**: Event-based (see below)
+
+#### Selection Criteria
+Events must meet ALL criteria to be included:
+- **Country**: United States only
+- **Impact Level**: High or Medium
+- **Timeframe**: Within next 28 days
+
+#### Data Source
+- **Provider**: [investing.com](https://www.investing.com/economic-calendar/)
+- **Method**: Web scraping via POST API
+- **Refresh**: Hourly to capture latest forecast updates
+
+#### Notification Triggers
+
+**High Impact Events Only** (Medium impact events are displayed but silent):
+
+1. **12-Hour Warning**
+   - Sent once when event is 0-12 hours away
+   - Shows: Event name, time, forecast, impact level
+   - Duplicate prevention via persistent flags
+
+2. **Data Release**
+   - Sent once when actual vs forecast becomes available
+   - Shows: Actual value, forecast, deviation percentage
+   - Only if actual data differs from forecast
+
+**Example:**
+```
+⚠️ Upcoming Catalyst (11.5h)
+
+🔴 Existing Home Sales (Nov)
+📅 2025-12-19 at 10:00
+📊 Forecast: 4.15M
+⚡ Impact: High
+```
+
+Then at release:
+```
+📊 Data Released
+
+🔴 Existing Home Sales (Nov)
+Actual: 4.20M vs 4.15M forecast
+Deviation: +1.2% (beat)
+```
+
+#### Display Behavior
+- **Frontend**: Shows ALL High + Medium impact events
+- **Telegram**: Only High impact events trigger notifications
+- **Timeline**: Grouped by week (This Week, Next Week, Week 3, Week 4)
 
 ### Metrics Notifications
 
