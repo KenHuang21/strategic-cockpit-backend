@@ -527,16 +527,15 @@ class MetricsFetcher:
                 pct_change = ((new_value - old_value) / old_value) * 100 if old_value != 0 else 0
                 exceeds_threshold = abs(pct_change) >= threshold
             
-            # Store the change for notification formatting
-            self.metric_changes[metric] = {
-                'old': old_value,
-                'new': new_value,
-                'pct_change': pct_change,
-                'direction': '▲' if new_value > old_value else '▼'
-            }
-            
             # Mark as changed if threshold exceeded
             if exceeds_threshold:
+                # Store the change for notification formatting (ONLY if threshold exceeded)
+                self.metric_changes[metric] = {
+                    'old': old_value,
+                    'new': new_value,
+                    'pct_change': pct_change,
+                    'direction': '▲' if new_value > old_value else '▼'
+                }
                 changed_metrics.append(metric)
         
         should_notify = len(changed_metrics) > 0
