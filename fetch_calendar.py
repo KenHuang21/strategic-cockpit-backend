@@ -298,15 +298,21 @@ class EconomicCalendarFetcher:
                 time_until_event = event_datetime - now
                 hours_until = time_until_event.total_seconds() / 3600
                 
-                # Trigger A: 12-hour warning
-                if 0 <= hours_until <= 12 and not event['notification_sent_12h']:
+                # Trigger A: 12-hour warning (ONLY for High impact events)
+                if (0 <= hours_until <= 12 and 
+                    not event['notification_sent_12h'] and 
+                    event['impact'] == 'High'):  # Only High impact
                     message = self.format_warning_message(event, hours_until)
                     if self.send_telegram_notification(message):
                         event['notification_sent_12h'] = True
                         print(f"📢 Sent 12h warning for: {event['name']}")
                 
-                # Trigger B: Data release
-                if event['status'] == 'completed' and event['actual'] and not event['notification_sent_release']:
+                
+                # Trigger B: Data release (ONLY for High impact events)
+                if (event['status'] == 'completed' and 
+                    event['actual'] and 
+                    not event['notification_sent_release'] and
+                    event['impact'] == 'High'):  # Only High impact
                     message = self.format_release_message(event)
                     if self.send_telegram_notification(message):
                         event['notification_sent_release'] = True
