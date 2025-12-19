@@ -15,6 +15,7 @@ permissions:
 
 jobs:
   update-data:
+    # Run on all schedule triggers and manual dispatch
     runs-on: ubuntu-latest
     
     steps:
@@ -66,6 +67,8 @@ jobs:
           echo "ℹ️ No changes in dashboard_data.json - skipping commit"
 
   update-calendar:
+    # Only run on the hour OR manual dispatch
+    if: github.event.schedule == '0 * * * *' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     
     steps:
