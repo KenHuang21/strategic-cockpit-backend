@@ -43,22 +43,17 @@ jobs:
           python fetch_calendar.py
           echo "✅ Calendar fetch completed"
       
-      - name: Copy data to dashboard public
-        run: |
-          cp calendar_data.json dashboard/public/calendar_data.json
-          echo "✅ Copied calendar_data.json to public directory"
-      
       - name: Check for changes
         id: calendar-check
         run: |
-          git diff --exit-code calendar_data.json dashboard/public/calendar_data.json || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --exit-code calendar_data.json || echo "changed=true" >> $GITHUB_OUTPUT
       
       - name: Commit and push if changed
         if: steps.calendar-check.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add calendar_data.json dashboard/public/calendar_data.json
+          git add calendar_data.json
           git commit -m "calendar: auto-update $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           git push
       

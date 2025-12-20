@@ -46,22 +46,17 @@ jobs:
           python fetch_metrics.py
           echo "✅ Metrics fetch completed"
       
-      - name: Copy data to dashboard public
-        run: |
-          cp dashboard_data.json dashboard/public/dashboard_data.json
-          echo "✅ Copied dashboard_data.json to public directory"
-      
       - name: Check for changes
         id: git-check
         run: |
-          git diff --exit-code dashboard_data.json dashboard/public/dashboard_data.json || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --exit-code dashboard_data.json || echo "changed=true" >> $GITHUB_OUTPUT
       
       - name: Commit and push if changed
         if: steps.git-check.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add dashboard_data.json dashboard/public/dashboard_data.json
+          git add dashboard_data.json
           git commit -m "data: auto-update $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           git push
       
