@@ -149,8 +149,10 @@ class EconomicCalendarFetcher:
                         print(f"⚠️  Could not parse datetime: {event_datetime_str}")
                         continue
                     
-                    # Filter: Only events within our 28-day window
-                    if event_datetime < start_date or event_datetime > end_date:
+                    # Filter: Events from 6 hours ago to +28 days
+                    # This keeps recently completed events visible on the radar
+                    lookback_start = start_date - timedelta(hours=6)
+                    if event_datetime < lookback_start or event_datetime > end_date:
                         continue
                     
                     # Get currency/country
