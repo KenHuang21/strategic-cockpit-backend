@@ -78,9 +78,10 @@ class EconomicCalendarFetcher:
         """
         events = []
         
-        # Calculate date range (today + 28 days)
-        start_date = datetime.now()
-        end_date = start_date + timedelta(days=28)
+        # Calculate date range (2 days ago + 30 days forward)
+        # Start from 2 days ago to capture actual data for recently completed events
+        start_date = datetime.now() - timedelta(days=2)
+        end_date = start_date + timedelta(days=30)
         
         print(f"🔄 Fetching economic calendar from {start_date.date()} to {end_date.date()}...")
         
@@ -149,9 +150,10 @@ class EconomicCalendarFetcher:
                         print(f"⚠️  Could not parse datetime: {event_datetime_str}")
                         continue
                     
-                    # Filter: Events from 6 hours ago to +28 days
-                    # This keeps recently completed events visible on the radar
-                    lookback_start = start_date - timedelta(hours=6)
+                    # Filter: Events from 48 hours ago to +28 days
+                    # Extended lookback to ensure actual data is captured for completed events
+                    # (Some events release data hours after the scheduled time)
+                    lookback_start = start_date - timedelta(hours=48)
                     if event_datetime < lookback_start or event_datetime > end_date:
                         continue
                     
