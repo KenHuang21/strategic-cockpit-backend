@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-20T13:52:15.360621Z",
+  "updated_at": "2025-12-20T14:13:41.222127Z",
   "events": [
     {
       "id": "5c65b0c51cfc6284",
@@ -38,7 +38,7 @@
       "previous": "3.0%",
       "status": "completed",
       "notification_sent_12h": false,
-      "notification_sent_release": false
+      "notification_sent_release": true
     },
     {
       "id": "9d967dc4477d200b",
@@ -51,7 +51,7 @@
       "previous": "237K",
       "status": "completed",
       "notification_sent_12h": false,
-      "notification_sent_release": false
+      "notification_sent_release": true
     },
     {
       "id": "5b07421620c59edb",
@@ -64,7 +64,7 @@
       "previous": "-1.7",
       "status": "completed",
       "notification_sent_12h": false,
-      "notification_sent_release": false
+      "notification_sent_release": true
     },
     {
       "id": "fc5480ed8a13df17",
@@ -129,7 +129,7 @@
       "previous": "4.11M",
       "status": "completed",
       "notification_sent_12h": false,
-      "notification_sent_release": false
+      "notification_sent_release": true
     },
     {
       "id": "31fd339b23ec3865",
