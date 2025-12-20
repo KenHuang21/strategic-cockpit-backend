@@ -1,0 +1,51 @@
+name: Sync Data to Frontend
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'dashboard_data.json'
+      - 'calendar_data.json'
+  workflow_dispatch:
+
+jobs:
+  sync-to-frontend:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout backend repo
+        uses: actions/checkout@v4
+      
+      - name: Checkout frontend repo
+        uses: actions/checkout@v4
+        with:
+          repository: KenHuang21/strategic-cockpit-dashboard
+          token: ${{ secrets.FRONTEND_REPO_TOKEN }}
+          path: frontend
+      
+      - name: Copy JSON files to frontend public folder
+        run: |
+          cp dashboard_data.json frontend/public/dashboard_data.json
+          cp calendar_data.json frontend/public/calendar_data.json
+          echo "✅ Copied data files to frontend/public/"
+      
+      - name: Check for changes
+        id: git-check
+        run: |
+          cd frontend
+          git diff --exit-code public/dashboard_data.json public/calendar_data.json || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push to frontend if changed
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          cd frontend
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/dashboard_data.json public/calendar_data.json
+          git commit -m "data: auto-sync from backend $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+          echo "✅ Pushed updated data to frontend repo"
+      
+      - name: No changes
+        if: steps.git-check.outputs.changed != 'true'
+        run: echo "ℹ️  No changes in data files - skipping frontend sync"
