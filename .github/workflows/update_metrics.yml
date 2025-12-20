@@ -1,0 +1,71 @@
+name: Update Metrics Data
+
+on:
+  # Run every 15 minutes
+  schedule:
+    - cron: '*/15 * * * *'
+  
+  # Allow manual trigger for testing or emergency refresh
+  workflow_dispatch:
+
+# Required to push changes back to the repository
+permissions:
+  contents: write
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests pandas fredapi yfinance tabulate
+          fi
+      
+      - name: Run metrics fetch script
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python fetch_metrics.py
+          echo "✅ Metrics fetch completed"
+      
+      - name: Copy data to dashboard public
+        run: |
+          cp dashboard_data.json dashboard/public/dashboard_data.json
+          echo "✅ Copied dashboard_data.json to public directory"
+      
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code dashboard_data.json dashboard/public/dashboard_data.json || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push if changed
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add dashboard_data.json dashboard/public/dashboard_data.json
+          git commit -m "data: auto-update $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+      
+      - name: No changes detected
+        if: steps.git-check.outputs.changed != 'true'
+        run: |
+          echo "ℹ️ No changes in dashboard_data.json - skipping commit"

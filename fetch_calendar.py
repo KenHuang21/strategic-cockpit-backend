@@ -212,6 +212,11 @@ class EconomicCalendarFetcher:
                     # Determine status
                     status = "completed" if actual else "upcoming"
                     
+                    # Debug logging for actual values
+                    if actual:
+                        print(f"  📊 Found actual value for {name}: {actual} (status: completed)")
+
+                    
                     # Format date as YYYY-MM-DD
                     event_date = event_datetime.strftime('%Y-%m-%d')
                     
@@ -271,6 +276,7 @@ class EconomicCalendarFetcher:
                 # Update actual value if it changed
                 if new_event['actual'] and not old_event.get('actual'):
                     new_event['status'] = 'completed'
+                    print(f"  ✅ Updated event with actual data: {new_event['name']} - Actual: {new_event['actual']}")
             
             merged_events.append(new_event)
         
