@@ -176,11 +176,12 @@ class EconomicCalendarFetcher:
                     # Check data-img_key attribute (bull1, bull2, bull3)
                     img_key = impact_elem.get('data-img_key', '')
                     
-                    # Filter: High (bull3) or Medium (bull2) impact only
-                    if img_key not in ['bull2', 'bull3']:
+                    # Filter: High (bull3) impact only (user requested to reduce clutter)
+                    # Note: This may result in sparse calendar during quiet periods
+                    if img_key != 'bull3':
                         continue
                     
-                    impact = "High" if img_key == 'bull3' else "Medium"
+                    impact = "High"
                     
                     # Get event name
                     name_elem = row.find('td', {'class': 'event'})
