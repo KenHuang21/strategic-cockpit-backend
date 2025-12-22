@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-22T06:27:01.893989Z",
+  "updated_at": "2025-12-22T07:20:10.786458Z",
   "events": [
     {
       "id": "f2e6b5574966ecb7",
@@ -69,12 +69,12 @@
     {
       "id": "665254ec69a3393e",
       "date": "2025-12-23",
-      "time": "15:01",
+      "time": "15:00",
       "name": "New Home Sales (Sep)",
       "impact": "High",
       "forecast": null,
       "actual": null,
-      "previous": "1K",
+      "previous": "800K",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
@@ -82,7 +82,7 @@
     {
       "id": "8afdbb7242cf6248",
       "date": "2025-12-23",
-      "time": "15:02",
+      "time": "15:01",
       "name": "New Home Sales (Oct)",
       "impact": "High",
       "forecast": null,
@@ -95,7 +95,7 @@
     {
       "id": "507b5b785b620227",
       "date": "2025-12-23",
-      "time": "15:03",
+      "time": "15:02",
       "name": "New Home Sales (Nov)",
       "impact": "High",
       "forecast": null,
