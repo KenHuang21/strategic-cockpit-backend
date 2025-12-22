@@ -1,32 +1,6 @@
 {
-  "updated_at": "2025-12-21T23:14:12.911831Z",
+  "updated_at": "2025-12-22T01:15:58.223118Z",
   "events": [
-    {
-      "id": "016ce5a5e62933ad",
-      "date": "2025-12-19",
-      "time": "10:00",
-      "name": "Existing Home Sales (Nov)",
-      "impact": "High",
-      "forecast": "4.15M",
-      "actual": "4.13M",
-      "previous": "4.11M",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": true
-    },
-    {
-      "id": "ba3fbdad4574a9de",
-      "date": "2025-12-19",
-      "time": "21:00",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "f2e6b5574966ecb7",
       "date": "2025-12-22",
@@ -51,6 +25,84 @@
       "previous": "2.8%",
       "status": "upcoming",
       "notification_sent_12h": true,
+      "notification_sent_release": false
+    },
+    {
+      "id": "8825ed4231cee753",
+      "date": "2025-12-23",
+      "time": "08:30",
+      "name": "Durable Goods Orders (MoM) (Oct)",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": "0.5%",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "b77f1bc4672f7baa",
+      "date": "2025-12-23",
+      "time": "08:30",
+      "name": "GDP (QoQ) (Q3)",
+      "impact": "High",
+      "forecast": "3.2%",
+      "actual": null,
+      "previous": "3.8%",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "f40db477f7d0475e",
+      "date": "2025-12-23",
+      "time": "10:00",
+      "name": "CB Consumer Confidence (Dec)",
+      "impact": "High",
+      "forecast": "91.7",
+      "actual": null,
+      "previous": "88.7",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "665254ec69a3393e",
+      "date": "2025-12-23",
+      "time": "15:01",
+      "name": "New Home Sales (Sep)",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": "1K",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "8afdbb7242cf6248",
+      "date": "2025-12-23",
+      "time": "15:02",
+      "name": "New Home Sales (Oct)",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "507b5b785b620227",
+      "date": "2025-12-23",
+      "time": "15:03",
+      "name": "New Home Sales (Nov)",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
       "notification_sent_release": false
     }
   ]
