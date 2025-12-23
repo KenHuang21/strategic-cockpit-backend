@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-23T12:32:19.520847Z",
+  "updated_at": "2025-12-23T13:32:39.549384Z",
   "events": [
     {
       "id": "8825ed4231cee753",
@@ -8,11 +8,11 @@
       "name": "Durable Goods Orders (MoM) (Oct)",
       "impact": "High",
       "forecast": "-1.5%",
-      "actual": null,
-      "previous": "0.5%",
-      "status": "upcoming",
+      "actual": "-2.2%",
+      "previous": "0.7%",
+      "status": "completed",
       "notification_sent_12h": true,
-      "notification_sent_release": false
+      "notification_sent_release": true
     },
     {
       "id": "b77f1bc4672f7baa",
@@ -21,11 +21,11 @@
       "name": "GDP (QoQ) (Q3)",
       "impact": "High",
       "forecast": "3.3%",
-      "actual": null,
+      "actual": "4.3%",
       "previous": "3.8%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": true,
-      "notification_sent_release": false
+      "notification_sent_release": true
     },
     {
       "id": "f40db477f7d0475e",
