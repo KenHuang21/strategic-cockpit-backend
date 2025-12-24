@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-24T04:31:45.340699Z",
+  "updated_at": "2025-12-24T05:19:33.780601Z",
   "events": [
     {
       "id": "8825ed4231cee753",
@@ -46,7 +46,7 @@
       "time": "08:30",
       "name": "Initial Jobless Claims",
       "impact": "High",
-      "forecast": "223K",
+      "forecast": "224K",
       "actual": null,
       "previous": "224K",
       "status": "upcoming",
