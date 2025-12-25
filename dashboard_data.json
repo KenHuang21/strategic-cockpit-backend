@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-12-25T14:10:50.597324Z",
-  "timestamp_unix": 1766671850,
+  "timestamp": "2025-12-25T14:33:44.572130Z",
+  "timestamp_unix": 1766673224,
   "metrics": {
     "us_10y_yield": 4.17,
     "us_10y_yield_7d_change": -0.477326968973758,
-    "bitcoin_price": 87614.0,
+    "bitcoin_price": 87576.0,
     "stablecoin_mcap": 307498534663.6708,
-    "rwa_tvl": 18319824849.031456,
-    "usdt_dominance": 6.14689759370545,
+    "rwa_tvl": 18321071949.278767,
+    "usdt_dominance": 6.148498055924886,
     "fed_net_liquidity": 5723763.197,
     "fed_net_liquidity_7d_change": 1.633803478052132
   },
