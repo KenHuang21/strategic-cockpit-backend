@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-26T05:17:42.950479Z",
+  "updated_at": "2025-12-26T06:24:42.073589Z",
   "events": [
     {
       "id": "f5a113f665636b1b",
@@ -23,19 +23,6 @@
       "forecast": null,
       "actual": null,
       "previous": "-1.274M",
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "4261eb848fe1c253",
-      "date": "2025-12-30",
-      "time": "09:45",
-      "name": "Chicago PMI (Dec)",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": "36.3",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
