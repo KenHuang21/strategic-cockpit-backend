@@ -1,19 +1,6 @@
 {
-  "updated_at": "2025-12-26T23:14:32.568713Z",
+  "updated_at": "2025-12-27T01:11:09.515382Z",
   "events": [
-    {
-      "id": "f5a113f665636b1b",
-      "date": "2025-12-24",
-      "time": "08:30",
-      "name": "Initial Jobless Claims",
-      "impact": "High",
-      "forecast": "224K",
-      "actual": "214K",
-      "previous": "224K",
-      "status": "completed",
-      "notification_sent_12h": true,
-      "notification_sent_release": true
-    },
     {
       "id": "f449c1139d49890e",
       "date": "2025-12-29",
@@ -49,6 +36,19 @@
       "forecast": null,
       "actual": null,
       "previous": "214K",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "fa994b7adae87236",
+      "date": "2025-12-31",
+      "time": "09:45",
+      "name": "Chicago PMI (Dec)",
+      "impact": "High",
+      "forecast": "39.5",
+      "actual": null,
+      "previous": "36.3",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
