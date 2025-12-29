@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-29T10:18:09.901488Z",
+  "updated_at": "2025-12-29T11:14:26.098268Z",
   "events": [
     {
       "id": "f449c1139d49890e",
@@ -12,6 +12,19 @@
       "previous": "-1.274M",
       "status": "upcoming",
       "notification_sent_12h": true,
+      "notification_sent_release": false
+    },
+    {
+      "id": "4261eb848fe1c253",
+      "date": "2025-12-30",
+      "time": "09:45",
+      "name": "Chicago PMI (Dec)",
+      "impact": "High",
+      "forecast": "39.6",
+      "actual": null,
+      "previous": "36.3",
+      "status": "upcoming",
+      "notification_sent_12h": false,
       "notification_sent_release": false
     },
     {
@@ -36,19 +49,6 @@
       "forecast": "215K",
       "actual": null,
       "previous": "214K",
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "fa994b7adae87236",
-      "date": "2025-12-31",
-      "time": "09:45",
-      "name": "Chicago PMI (Dec)",
-      "impact": "High",
-      "forecast": "39.5",
-      "actual": null,
-      "previous": "36.3",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
