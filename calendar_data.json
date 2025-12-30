@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-30T04:34:51.477108Z",
+  "updated_at": "2025-12-30T05:19:49.882213Z",
   "events": [
     {
       "id": "4261eb848fe1c253",
@@ -7,22 +7,9 @@
       "time": "09:45",
       "name": "Chicago PMI (Dec)",
       "impact": "High",
-      "forecast": "39.6",
+      "forecast": "39.8",
       "actual": null,
       "previous": "36.3",
-      "status": "upcoming",
-      "notification_sent_12h": true,
-      "notification_sent_release": false
-    },
-    {
-      "id": "947f7ea917fcb209",
-      "date": "2025-12-30",
-      "time": "11:30",
-      "name": "Crude Oil Inventories",
-      "impact": "High",
-      "forecast": "-2.000M",
-      "actual": null,
-      "previous": "-1.274M",
       "status": "upcoming",
       "notification_sent_12h": true,
       "notification_sent_release": false
@@ -49,6 +36,19 @@
       "forecast": "215K",
       "actual": null,
       "previous": "214K",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "bd3432588e1dde80",
+      "date": "2025-12-31",
+      "time": "11:30",
+      "name": "Crude Oil Inventories",
+      "impact": "High",
+      "forecast": "-2.000M",
+      "actual": null,
+      "previous": "-1.274M",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
