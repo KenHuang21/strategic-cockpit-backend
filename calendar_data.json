@@ -1,6 +1,19 @@
 {
-  "updated_at": "2025-12-30T17:16:54.391542Z",
+  "updated_at": "2025-12-30T18:23:40.118519Z",
   "events": [
+    {
+      "id": "f449c1139d49890e",
+      "date": "2025-12-29",
+      "time": "17:00",
+      "name": "Crude Oil Inventories",
+      "impact": "High",
+      "forecast": "-2.400M",
+      "actual": "0.405M",
+      "previous": "-1.274M",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": true
+    },
     {
       "id": "4261eb848fe1c253",
       "date": "2025-12-30",
