@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-31T03:22:45.905564Z",
+  "updated_at": "2025-12-31T04:34:29.512566Z",
   "events": [
     {
       "id": "f449c1139d49890e",
@@ -46,7 +46,7 @@
       "time": "08:30",
       "name": "Initial Jobless Claims",
       "impact": "High",
-      "forecast": "217K",
+      "forecast": "219K",
       "actual": null,
       "previous": "214K",
       "status": "upcoming",
@@ -59,7 +59,7 @@
       "time": "10:30",
       "name": "Crude Oil Inventories",
       "impact": "High",
-      "forecast": "-2.000M",
+      "forecast": "0.500M",
       "actual": null,
       "previous": "0.405M",
       "status": "upcoming",
