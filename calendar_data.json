@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-01-01T23:15:30.818285Z",
+  "updated_at": "2026-01-02T01:14:44.699678Z",
   "events": [
-    {
-      "id": "4261eb848fe1c253",
-      "date": "2025-12-30",
-      "time": "09:45",
-      "name": "Chicago PMI (Dec)",
-      "impact": "High",
-      "forecast": "39.8",
-      "actual": "43.5",
-      "previous": "36.3",
-      "status": "completed",
-      "notification_sent_12h": true,
-      "notification_sent_release": true
-    },
-    {
-      "id": "715cb3e5c0c2f2af",
-      "date": "2025-12-30",
-      "time": "14:00",
-      "name": "FOMC Meeting Minutes",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": true,
-      "notification_sent_release": false
-    },
     {
       "id": "02c7751e614b86f5",
       "date": "2025-12-31",
@@ -64,6 +38,32 @@
       "previous": "52.2",
       "status": "upcoming",
       "notification_sent_12h": true,
+      "notification_sent_release": false
+    },
+    {
+      "id": "58af17ab8d0c1c2c",
+      "date": "2026-01-05",
+      "time": "10:00",
+      "name": "ISM Manufacturing PMI (Dec)",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": "48.2",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "00673228644727ef",
+      "date": "2026-01-05",
+      "time": "10:00",
+      "name": "ISM Manufacturing Prices (Dec)",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": "58.5",
+      "status": "upcoming",
+      "notification_sent_12h": false,
       "notification_sent_release": false
     }
   ]
