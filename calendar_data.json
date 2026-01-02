@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-02T14:15:52.741238Z",
+  "updated_at": "2026-01-02T15:16:34.134085Z",
   "events": [
     {
       "id": "02c7751e614b86f5",
@@ -34,11 +34,11 @@
       "name": "S&P Global Manufacturing PMI (Dec)",
       "impact": "High",
       "forecast": "51.8",
-      "actual": null,
+      "actual": "51.8",
       "previous": "52.2",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": true,
-      "notification_sent_release": false
+      "notification_sent_release": true
     },
     {
       "id": "58af17ab8d0c1c2c",
