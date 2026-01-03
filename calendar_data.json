@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-01-02T23:14:49.507117Z",
+  "updated_at": "2026-01-03T01:10:20.199177Z",
   "events": [
-    {
-      "id": "02c7751e614b86f5",
-      "date": "2025-12-31",
-      "time": "08:30",
-      "name": "Initial Jobless Claims",
-      "impact": "High",
-      "forecast": "219K",
-      "actual": "199K",
-      "previous": "215K",
-      "status": "completed",
-      "notification_sent_12h": true,
-      "notification_sent_release": true
-    },
-    {
-      "id": "bd3432588e1dde80",
-      "date": "2025-12-31",
-      "time": "10:30",
-      "name": "Crude Oil Inventories",
-      "impact": "High",
-      "forecast": "0.500M",
-      "actual": "-1.934M",
-      "previous": "0.405M",
-      "status": "completed",
-      "notification_sent_12h": true,
-      "notification_sent_release": true
-    },
     {
       "id": "ee48505cbb1a6945",
       "date": "2026-01-02",
