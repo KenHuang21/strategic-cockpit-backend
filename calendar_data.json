@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-04T21:13:46.883070Z",
+  "updated_at": "2026-01-04T22:14:43.359973Z",
   "events": [
     {
       "id": "ee48505cbb1a6945",
@@ -24,7 +24,7 @@
       "actual": null,
       "previous": "48.2",
       "status": "upcoming",
-      "notification_sent_12h": false,
+      "notification_sent_12h": true,
       "notification_sent_release": false
     },
     {
@@ -37,7 +37,7 @@
       "actual": null,
       "previous": "58.5",
       "status": "upcoming",
-      "notification_sent_12h": false,
+      "notification_sent_12h": true,
       "notification_sent_release": false
     }
   ]
