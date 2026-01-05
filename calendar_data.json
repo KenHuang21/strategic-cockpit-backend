@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-01-04T23:14:48.234641Z",
+  "updated_at": "2026-01-05T01:20:47.455984Z",
   "events": [
-    {
-      "id": "ee48505cbb1a6945",
-      "date": "2026-01-02",
-      "time": "09:45",
-      "name": "S&P Global Manufacturing PMI (Dec)",
-      "impact": "High",
-      "forecast": "51.8",
-      "actual": "51.8",
-      "previous": "52.2",
-      "status": "completed",
-      "notification_sent_12h": true,
-      "notification_sent_release": true
-    },
     {
       "id": "58af17ab8d0c1c2c",
       "date": "2026-01-05",
@@ -38,6 +25,19 @@
       "previous": "58.5",
       "status": "upcoming",
       "notification_sent_12h": true,
+      "notification_sent_release": false
+    },
+    {
+      "id": "e162f0268c66ebde",
+      "date": "2026-01-06",
+      "time": "09:45",
+      "name": "S&P Global Services PMI (Dec)",
+      "impact": "High",
+      "forecast": "52.9",
+      "actual": null,
+      "previous": "54.1",
+      "status": "upcoming",
+      "notification_sent_12h": false,
       "notification_sent_release": false
     }
   ]
