@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-05T14:19:27.840713Z",
+  "updated_at": "2026-01-05T15:18:59.468744Z",
   "events": [
     {
       "id": "58af17ab8d0c1c2c",
@@ -8,11 +8,11 @@
       "name": "ISM Manufacturing PMI (Dec)",
       "impact": "High",
       "forecast": "48.3",
-      "actual": null,
+      "actual": "47.9",
       "previous": "48.2",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": true,
-      "notification_sent_release": false
+      "notification_sent_release": true
     },
     {
       "id": "00673228644727ef",
@@ -21,11 +21,11 @@
       "name": "ISM Manufacturing Prices (Dec)",
       "impact": "High",
       "forecast": "59.0",
-      "actual": null,
+      "actual": "58.5",
       "previous": "58.5",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": true,
-      "notification_sent_release": false
+      "notification_sent_release": true
     },
     {
       "id": "e162f0268c66ebde",
