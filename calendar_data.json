@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-06T14:17:48.365645Z",
+  "updated_at": "2026-01-06T15:17:13.616109Z",
   "events": [
     {
       "id": "58af17ab8d0c1c2c",
@@ -34,9 +34,9 @@
       "name": "S&P Global Services PMI (Dec)",
       "impact": "High",
       "forecast": "52.9",
-      "actual": null,
+      "actual": "52.5",
       "previous": "54.1",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": true,
       "notification_sent_release": false
     }
