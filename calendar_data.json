@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-01-07T23:16:06.105281Z",
+  "updated_at": "2026-01-08T01:15:13.939955Z",
   "events": [
-    {
-      "id": "58af17ab8d0c1c2c",
-      "date": "2026-01-05",
-      "time": "10:00",
-      "name": "ISM Manufacturing PMI (Dec)",
-      "impact": "High",
-      "forecast": "48.3",
-      "actual": "47.9",
-      "previous": "48.2",
-      "status": "completed",
-      "notification_sent_12h": true,
-      "notification_sent_release": true
-    },
-    {
-      "id": "00673228644727ef",
-      "date": "2026-01-05",
-      "time": "10:00",
-      "name": "ISM Manufacturing Prices (Dec)",
-      "impact": "High",
-      "forecast": "59.0",
-      "actual": "58.5",
-      "previous": "58.5",
-      "status": "completed",
-      "notification_sent_12h": true,
-      "notification_sent_release": true
-    },
     {
       "id": "e162f0268c66ebde",
       "date": "2026-01-06",
@@ -38,6 +12,71 @@
       "previous": "54.1",
       "status": "completed",
       "notification_sent_12h": true,
+      "notification_sent_release": false
+    },
+    {
+      "id": "95679dd2c04b3001",
+      "date": "2026-01-07",
+      "time": "08:15",
+      "name": "ADP Nonfarm Employment Change (Dec)",
+      "impact": "High",
+      "forecast": "49K",
+      "actual": "41K",
+      "previous": "-29K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "e70a9bdaff02f04f",
+      "date": "2026-01-07",
+      "time": "10:00",
+      "name": "ISM Non-Manufacturing PMI (Dec)",
+      "impact": "High",
+      "forecast": "52.2",
+      "actual": "54.4",
+      "previous": "52.6",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "35a7271fed702604",
+      "date": "2026-01-07",
+      "time": "10:00",
+      "name": "ISM Non-Manufacturing Prices (Dec)",
+      "impact": "High",
+      "forecast": "64.9",
+      "actual": "64.3",
+      "previous": "65.4",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "144845b59c678db7",
+      "date": "2026-01-07",
+      "time": "10:00",
+      "name": "JOLTS Job Openings (Nov)",
+      "impact": "High",
+      "forecast": "7.610M",
+      "actual": "7.146M",
+      "previous": "7.449M",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "530f4fd9f0dee693",
+      "date": "2026-01-07",
+      "time": "10:30",
+      "name": "Crude Oil Inventories",
+      "impact": "High",
+      "forecast": "-1.200M",
+      "actual": "-3.832M",
+      "previous": "-1.934M",
+      "status": "completed",
+      "notification_sent_12h": false,
       "notification_sent_release": false
     }
   ]
