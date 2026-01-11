@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-01-10T23:14:40.345113Z",
+  "updated_at": "2026-01-11T01:21:53.461997Z",
   "events": [
-    {
-      "id": "c856ea9db935ddc4",
-      "date": "2026-01-08",
-      "time": "08:30",
-      "name": "Initial Jobless Claims",
-      "impact": "High",
-      "forecast": "213K",
-      "actual": "208K",
-      "previous": "200K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "901b6b90811b8b23",
       "date": "2026-01-09",
@@ -24,6 +11,45 @@
       "actual": "0.3%",
       "previous": "0.2%",
       "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "f39baa81fc9a391f",
+      "date": "2026-01-09",
+      "time": "08:30",
+      "name": "Nonfarm Payrolls (Dec)",
+      "impact": "High",
+      "forecast": "66K",
+      "actual": "50K",
+      "previous": "56K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "2791b08d70f2946c",
+      "date": "2026-01-09",
+      "time": "08:30",
+      "name": "Unemployment Rate (Dec)",
+      "impact": "High",
+      "forecast": "4.5%",
+      "actual": "4.4%",
+      "previous": "4.5%",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "a7db9e22b5443470",
+      "date": "2026-01-12",
+      "time": "13:00",
+      "name": "10-Year Note Auction",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": "4.175%",
+      "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
