@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-12T17:19:19.836640Z",
+  "updated_at": "2026-01-12T18:25:04.491460Z",
   "events": [
     {
       "id": "a7db9e22b5443470",
@@ -8,9 +8,9 @@
       "name": "10-Year Note Auction",
       "impact": "High",
       "forecast": null,
-      "actual": null,
+      "actual": "4.173%",
       "previous": "4.175%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
