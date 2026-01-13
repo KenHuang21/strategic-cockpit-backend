@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-13T04:35:31.224516Z",
+  "updated_at": "2026-01-13T05:21:16.901175Z",
   "events": [
     {
       "id": "a7db9e22b5443470",
@@ -59,7 +59,7 @@
       "time": "10:00",
       "name": "New Home Sales (Oct)",
       "impact": "High",
-      "forecast": "715K",
+      "forecast": "716K",
       "actual": null,
       "previous": "800K",
       "status": "upcoming",
