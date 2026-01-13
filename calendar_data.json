@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-13T09:23:16.688947Z",
+  "updated_at": "2026-01-13T10:18:17.547926Z",
   "events": [
     {
       "id": "a7db9e22b5443470",
@@ -93,10 +93,10 @@
       "notification_sent_release": false
     },
     {
-      "id": "fc7b383617d801eb",
+      "id": "4410d22c1f2fadc5",
       "date": "2026-01-14",
       "time": "08:30",
-      "name": "PPI (MoM) (Nov)",
+      "name": "PPI (MoM) (Oct)",
       "impact": "High",
       "forecast": null,
       "actual": null,
@@ -124,7 +124,7 @@
       "time": "10:00",
       "name": "Existing Home Sales (Dec)",
       "impact": "High",
-      "forecast": "4.24M",
+      "forecast": "4.21M",
       "actual": null,
       "previous": "4.13M",
       "status": "upcoming",
