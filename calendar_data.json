@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-13T19:16:37.669794Z",
+  "updated_at": "2026-01-13T20:18:50.121024Z",
   "events": [
     {
       "id": "a7db9e22b5443470",
@@ -54,6 +54,19 @@
       "notification_sent_release": false
     },
     {
+      "id": "23b37986bafc66b8",
+      "date": "2026-01-13",
+      "time": "09:59",
+      "name": "New Home Sales (Sep)",
+      "impact": "High",
+      "forecast": null,
+      "actual": "738K",
+      "previous": "711K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
       "id": "36d7685fc3af720d",
       "date": "2026-01-13",
       "time": "10:00",
@@ -61,7 +74,7 @@
       "impact": "High",
       "forecast": "716K",
       "actual": "737K",
-      "previous": "711K",
+      "previous": "738K",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
