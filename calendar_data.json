@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-13T12:35:07.071238Z",
+  "updated_at": "2026-01-13T13:37:13.409143Z",
   "events": [
     {
       "id": "a7db9e22b5443470",
@@ -21,9 +21,9 @@
       "name": "Core CPI (MoM) (Dec)",
       "impact": "High",
       "forecast": "0.3%",
-      "actual": null,
+      "actual": "0.2%",
       "previous": "0.2%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -34,9 +34,9 @@
       "name": "CPI (MoM) (Dec)",
       "impact": "High",
       "forecast": "0.3%",
-      "actual": null,
+      "actual": "0.3%",
       "previous": "0.3%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -47,9 +47,9 @@
       "name": "CPI (YoY) (Dec)",
       "impact": "High",
       "forecast": "2.7%",
-      "actual": null,
+      "actual": "2.7%",
       "previous": "2.7%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
