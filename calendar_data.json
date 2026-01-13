@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-13T17:22:08.316244Z",
+  "updated_at": "2026-01-13T18:25:04.360278Z",
   "events": [
     {
       "id": "a7db9e22b5443470",
@@ -73,9 +73,9 @@
       "name": "30-Year Bond Auction",
       "impact": "High",
       "forecast": null,
-      "actual": null,
+      "actual": "4.825%",
       "previous": "4.773%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
