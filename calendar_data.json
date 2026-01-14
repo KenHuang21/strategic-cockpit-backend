@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-14T05:20:11.807343Z",
+  "updated_at": "2026-01-14T06:26:25.740407Z",
   "events": [
     {
       "id": "a7db9e22b5443470",
@@ -93,6 +93,19 @@
       "notification_sent_release": false
     },
     {
+      "id": "03a67b2a619bec2a",
+      "date": "2026-01-13",
+      "time": "14:00",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
       "id": "a6395140e04795ac",
       "date": "2026-01-14",
       "time": "08:30",
@@ -124,7 +137,7 @@
       "time": "08:30",
       "name": "Retail Sales (MoM) (Nov)",
       "impact": "High",
-      "forecast": "0.4%",
+      "forecast": "0.5%",
       "actual": null,
       "previous": "0.0%",
       "status": "upcoming",
@@ -150,7 +163,7 @@
       "time": "10:30",
       "name": "Crude Oil Inventories",
       "impact": "High",
-      "forecast": "-2.200M",
+      "forecast": "-1.700M",
       "actual": null,
       "previous": "-3.832M",
       "status": "upcoming",
