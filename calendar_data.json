@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-14T12:33:54.058542Z",
+  "updated_at": "2026-01-14T13:37:06.324744Z",
   "events": [
     {
       "id": "a7db9e22b5443470",
@@ -106,28 +106,28 @@
       "notification_sent_release": false
     },
     {
+      "id": "4410d22c1f2fadc5",
+      "date": "2026-01-14",
+      "time": "08:29",
+      "name": "PPI (MoM) (Oct)",
+      "impact": "High",
+      "forecast": null,
+      "actual": "0.1%",
+      "previous": "0.6%",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
       "id": "a6395140e04795ac",
       "date": "2026-01-14",
       "time": "08:30",
       "name": "Core Retail Sales (MoM) (Nov)",
       "impact": "High",
       "forecast": "0.4%",
-      "actual": null,
-      "previous": "0.4%",
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "4410d22c1f2fadc5",
-      "date": "2026-01-14",
-      "time": "08:30",
-      "name": "PPI (MoM) (Oct)",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": "0.3%",
-      "status": "upcoming",
+      "actual": "0.5%",
+      "previous": "0.2%",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -138,9 +138,9 @@
       "name": "Retail Sales (MoM) (Nov)",
       "impact": "High",
       "forecast": "0.5%",
-      "actual": null,
-      "previous": "0.0%",
-      "status": "upcoming",
+      "actual": "0.6%",
+      "previous": "-0.1%",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
