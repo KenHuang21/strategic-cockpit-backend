@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-14T14:20:40.918409Z",
+  "updated_at": "2026-01-14T15:20:23.492792Z",
   "events": [
     {
       "id": "a7db9e22b5443470",
@@ -164,9 +164,9 @@
       "name": "Existing Home Sales (Dec)",
       "impact": "High",
       "forecast": "4.21M",
-      "actual": null,
-      "previous": "4.13M",
-      "status": "upcoming",
+      "actual": "4.35M",
+      "previous": "4.14M",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
