@@ -1,29 +1,16 @@
 {
-  "updated_at": "2026-01-17T23:14:32.675438Z",
+  "updated_at": "2026-01-19T01:19:47.444998Z",
   "events": [
     {
-      "id": "0bf15ec06ff350cc",
-      "date": "2026-01-15",
+      "id": "57a65c997f688e9f",
+      "date": "2026-01-21",
       "time": "08:30",
-      "name": "Initial Jobless Claims",
+      "name": "U.S. President Trump Speaks",
       "impact": "High",
-      "forecast": "215K",
-      "actual": "198K",
-      "previous": "207K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "0712f872981dd387",
-      "date": "2026-01-15",
-      "time": "08:30",
-      "name": "Philadelphia Fed Manufacturing Index (Jan)",
-      "impact": "High",
-      "forecast": "-1.6",
-      "actual": "12.6",
-      "previous": "-8.8",
-      "status": "completed",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
