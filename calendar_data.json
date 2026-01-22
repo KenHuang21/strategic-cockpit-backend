@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-22T01:17:28.249584Z",
+  "updated_at": "2026-01-22T03:43:12.455641Z",
   "events": [
     {
       "id": "57a65c997f688e9f",
@@ -41,19 +41,6 @@
       "notification_sent_release": false
     },
     {
-      "id": "8d2aece4714e4708",
-      "date": "2026-01-22",
-      "time": "10:00",
-      "name": "Core PCE Price Index (YoY) (Nov)",
-      "impact": "High",
-      "forecast": "2.7%",
-      "actual": null,
-      "previous": "2.8%",
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
       "id": "5df28823d322dce3",
       "date": "2026-01-22",
       "time": "10:00",
@@ -62,6 +49,19 @@
       "forecast": "0.2%",
       "actual": null,
       "previous": "0.2%",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "8d2aece4714e4708",
+      "date": "2026-01-22",
+      "time": "10:00",
+      "name": "Core PCE Price Index (YoY) (Nov)",
+      "impact": "High",
+      "forecast": "2.7%",
+      "actual": null,
+      "previous": "2.8%",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
