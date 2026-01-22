@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-22T04:43:08.340422Z",
+  "updated_at": "2026-01-22T06:26:58.596323Z",
   "events": [
     {
       "id": "57a65c997f688e9f",
@@ -59,7 +59,7 @@
       "time": "10:00",
       "name": "Core PCE Price Index (YoY) (Nov)",
       "impact": "High",
-      "forecast": "2.7%",
+      "forecast": "2.8%",
       "actual": null,
       "previous": "2.8%",
       "status": "upcoming",
@@ -72,7 +72,7 @@
       "time": "12:00",
       "name": "Crude Oil Inventories",
       "impact": "High",
-      "forecast": "-2.500M",
+      "forecast": "-1.000M",
       "actual": null,
       "previous": "3.391M",
       "status": "upcoming",
