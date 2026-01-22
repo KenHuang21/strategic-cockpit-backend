@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-22T12:36:11.177201Z",
+  "updated_at": "2026-01-22T13:42:01.002372Z",
   "events": [
     {
       "id": "57a65c997f688e9f",
@@ -21,9 +21,9 @@
       "name": "GDP (QoQ) (Q3)",
       "impact": "High",
       "forecast": "4.3%",
-      "actual": null,
+      "actual": "4.4%",
       "previous": "3.8%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -34,9 +34,9 @@
       "name": "Initial Jobless Claims",
       "impact": "High",
       "forecast": "209K",
-      "actual": null,
-      "previous": "198K",
-      "status": "upcoming",
+      "actual": "200K",
+      "previous": "199K",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
