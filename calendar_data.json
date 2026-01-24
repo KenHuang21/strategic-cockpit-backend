@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-01-23T23:16:23.245888Z",
+  "updated_at": "2026-01-24T01:13:43.162403Z",
   "events": [
-    {
-      "id": "57a65c997f688e9f",
-      "date": "2026-01-21",
-      "time": "08:30",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "7e981246c385dd8e",
       "date": "2026-01-22",
@@ -101,6 +88,32 @@
       "forecast": "-1.000M",
       "actual": "3.602M",
       "previous": "3.391M",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "d9e05670eaf718eb",
+      "date": "2026-01-23",
+      "time": "09:45",
+      "name": "S&P Global Manufacturing PMI (Jan)",
+      "impact": "High",
+      "forecast": "51.9",
+      "actual": "51.9",
+      "previous": "51.8",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "6b2847a9bc83ff75",
+      "date": "2026-01-23",
+      "time": "09:45",
+      "name": "S&P Global Services PMI (Jan)",
+      "impact": "High",
+      "forecast": "52.9",
+      "actual": "52.5",
+      "previous": "52.5",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
