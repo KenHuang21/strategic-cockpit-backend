@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-27T03:43:09.957712Z",
+  "updated_at": "2026-01-27T04:42:12.284216Z",
   "events": [
     {
       "id": "9482c3d96b558f02",
@@ -20,7 +20,7 @@
       "time": "10:00",
       "name": "CB Consumer Confidence (Jan)",
       "impact": "High",
-      "forecast": "90.1",
+      "forecast": "90.6",
       "actual": null,
       "previous": "89.1",
       "status": "upcoming",
