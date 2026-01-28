@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-28T18:30:19.647784Z",
+  "updated_at": "2026-01-28T20:23:17.798300Z",
   "events": [
     {
       "id": "9482c3d96b558f02",
@@ -73,9 +73,9 @@
       "name": "Fed Interest Rate Decision",
       "impact": "High",
       "forecast": "3.75%",
-      "actual": null,
+      "actual": "3.75%",
       "previous": "3.75%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
