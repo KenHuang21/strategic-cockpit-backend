@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-01-29T23:21:00.811688Z",
+  "updated_at": "2026-01-30T01:26:23.390025Z",
   "events": [
-    {
-      "id": "b0e5215b62b6fff2",
-      "date": "2026-01-27",
-      "time": "10:00",
-      "name": "CB Consumer Confidence (Jan)",
-      "impact": "High",
-      "forecast": "90.6",
-      "actual": "84.5",
-      "previous": "94.2",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "2b4b1baafab4958f",
-      "date": "2026-01-27",
-      "time": "16:00",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "c37271c8e0f86aa6",
       "date": "2026-01-28",
@@ -71,6 +45,32 @@
       "date": "2026-01-28",
       "time": "14:30",
       "name": "FOMC Press Conference",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "065fac9bb8fe4a03",
+      "date": "2026-01-29",
+      "time": "08:30",
+      "name": "Initial Jobless Claims",
+      "impact": "High",
+      "forecast": "206K",
+      "actual": "209K",
+      "previous": "210K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "a2be0c5b30a32346",
+      "date": "2026-01-29",
+      "time": "16:30",
+      "name": "U.S. President Trump Speaks",
       "impact": "High",
       "forecast": null,
       "actual": null,
