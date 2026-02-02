@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-02T14:42:25.025894Z",
+  "updated_at": "2026-02-02T15:33:01.659894Z",
   "events": [
     {
       "id": "520a5847a5b86fa0",
@@ -8,9 +8,9 @@
       "name": "S&P Global Manufacturing PMI (Jan)",
       "impact": "High",
       "forecast": "51.9",
-      "actual": null,
+      "actual": "52.4",
       "previous": "51.9",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -21,9 +21,9 @@
       "name": "ISM Manufacturing PMI (Jan)",
       "impact": "High",
       "forecast": "48.5",
-      "actual": null,
+      "actual": "52.6",
       "previous": "47.9",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -34,9 +34,9 @@
       "name": "ISM Manufacturing Prices (Jan)",
       "impact": "High",
       "forecast": "59.3",
-      "actual": null,
+      "actual": "59.0",
       "previous": "58.5",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
