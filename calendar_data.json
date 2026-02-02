@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-02T04:19:11.505279Z",
+  "updated_at": "2026-02-02T05:59:59.377004Z",
   "events": [
     {
       "id": "520a5847a5b86fa0",
@@ -9,7 +9,7 @@
       "impact": "High",
       "forecast": "51.9",
       "actual": null,
-      "previous": "51.9",
+      "previous": "51.8",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
