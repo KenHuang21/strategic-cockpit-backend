@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-03T16:44:38.650002Z",
+  "updated_at": "2026-02-03T17:47:58.256311Z",
   "events": [
     {
       "id": "520a5847a5b86fa0",
@@ -41,19 +41,6 @@
       "notification_sent_release": false
     },
     {
-      "id": "f8588855ac28dd03",
-      "date": "2026-02-03",
-      "time": "12:00",
-      "name": "JOLTS Job Openings (Dec)",
-      "impact": "High",
-      "forecast": "7.230M",
-      "actual": null,
-      "previous": "7.146M",
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
       "id": "1e5c85f6b9b4496e",
       "date": "2026-02-04",
       "time": "08:15",
@@ -62,6 +49,19 @@
       "forecast": "46K",
       "actual": null,
       "previous": "41K",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "9a0304670f96d755",
+      "date": "2026-02-04",
+      "time": "09:00",
+      "name": "JOLTS Job Openings (Dec)",
+      "impact": "High",
+      "forecast": "7.230M",
+      "actual": null,
+      "previous": "7.146M",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
