@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-02T23:22:33.626051Z",
+  "updated_at": "2026-02-03T01:42:57.050679Z",
   "events": [
     {
       "id": "520a5847a5b86fa0",
@@ -49,6 +49,19 @@
       "forecast": "7.210M",
       "actual": null,
       "previous": "7.146M",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "1e5c85f6b9b4496e",
+      "date": "2026-02-04",
+      "time": "08:15",
+      "name": "ADP Nonfarm Employment Change (Jan)",
+      "impact": "High",
+      "forecast": "48K",
+      "actual": null,
+      "previous": "41K",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
