@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-03T04:10:09.896263Z",
+  "updated_at": "2026-02-03T05:45:16.188876Z",
   "events": [
     {
       "id": "520a5847a5b86fa0",
@@ -46,7 +46,7 @@
       "time": "10:00",
       "name": "JOLTS Job Openings (Dec)",
       "impact": "High",
-      "forecast": "7.210M",
+      "forecast": "7.230M",
       "actual": null,
       "previous": "7.146M",
       "status": "upcoming",
