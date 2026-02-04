@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-03T23:23:19.733661Z",
+  "updated_at": "2026-02-04T01:26:24.707401Z",
   "events": [
     {
       "id": "520a5847a5b86fa0",
@@ -62,6 +62,58 @@
       "forecast": "7.230M",
       "actual": null,
       "previous": "7.146M",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "2faaf9223e9211a4",
+      "date": "2026-02-04",
+      "time": "09:45",
+      "name": "S&P Global Services PMI (Jan)",
+      "impact": "High",
+      "forecast": "52.5",
+      "actual": null,
+      "previous": "52.5",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "2ebd5c388eab510a",
+      "date": "2026-02-04",
+      "time": "10:00",
+      "name": "ISM Non-Manufacturing PMI (Jan)",
+      "impact": "High",
+      "forecast": "53.5",
+      "actual": null,
+      "previous": "54.4",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "891d2ea400b067db",
+      "date": "2026-02-04",
+      "time": "10:00",
+      "name": "ISM Non-Manufacturing Prices (Jan)",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": "65.1",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "fa158f7003558ae9",
+      "date": "2026-02-04",
+      "time": "10:30",
+      "name": "Crude Oil Inventories",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": "-2.295M",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
