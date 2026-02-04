@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-04T12:44:31.594788Z",
+  "updated_at": "2026-02-04T13:59:27.783817Z",
   "events": [
     {
       "id": "520a5847a5b86fa0",
@@ -47,22 +47,9 @@
       "name": "ADP Nonfarm Employment Change (Jan)",
       "impact": "High",
       "forecast": "46K",
-      "actual": null,
-      "previous": "41K",
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "9a0304670f96d755",
-      "date": "2026-02-04",
-      "time": "09:00",
-      "name": "JOLTS Job Openings (Dec)",
-      "impact": "High",
-      "forecast": "7.230M",
-      "actual": null,
-      "previous": "7.146M",
-      "status": "upcoming",
+      "actual": "22K",
+      "previous": "37K",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
