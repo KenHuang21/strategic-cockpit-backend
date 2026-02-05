@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-05T12:47:32.369319Z",
+  "updated_at": "2026-02-05T14:02:12.931239Z",
   "events": [
     {
       "id": "1e5c85f6b9b4496e",
@@ -73,9 +73,9 @@
       "name": "Initial Jobless Claims",
       "impact": "High",
       "forecast": "212K",
-      "actual": null,
+      "actual": "231K",
       "previous": "209K",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
