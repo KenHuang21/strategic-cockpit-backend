@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-05T23:19:13.677515Z",
+  "updated_at": "2026-02-06T01:27:19.834489Z",
   "events": [
     {
       "id": "1e5c85f6b9b4496e",
@@ -76,6 +76,32 @@
       "actual": "231K",
       "previous": "209K",
       "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "604cbfcba0b86a18",
+      "date": "2026-02-05",
+      "time": "10:00",
+      "name": "JOLTS Job Openings (Dec)",
+      "impact": "High",
+      "forecast": "7.200M",
+      "actual": "6.542M",
+      "previous": "6.928M",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "f897a3478a4c131b",
+      "date": "2026-02-05",
+      "time": "19:00",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
