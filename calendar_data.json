@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-10T09:55:45.447538Z",
+  "updated_at": "2026-02-10T10:51:19.893633Z",
   "events": [
     {
       "id": "2ff8b41c06cf1656",
@@ -46,7 +46,7 @@
       "time": "08:30",
       "name": "Nonfarm Payrolls (Jan)",
       "impact": "High",
-      "forecast": "70K",
+      "forecast": "66K",
       "actual": null,
       "previous": "50K",
       "status": "upcoming",
