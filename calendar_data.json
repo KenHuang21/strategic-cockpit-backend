@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-10T01:55:35.225463Z",
+  "updated_at": "2026-02-10T04:28:31.618091Z",
   "events": [
     {
       "id": "2ff8b41c06cf1656",
@@ -7,7 +7,7 @@
       "time": "08:30",
       "name": "Core Retail Sales (MoM) (Dec)",
       "impact": "High",
-      "forecast": "0.4%",
+      "forecast": "0.3%",
       "actual": null,
       "previous": "0.5%",
       "status": "upcoming",
