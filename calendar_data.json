@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11T04:26:27.075635Z",
+  "updated_at": "2026-02-11T06:06:06.100276Z",
   "events": [
     {
       "id": "2ff8b41c06cf1656",
@@ -72,7 +72,7 @@
       "time": "10:30",
       "name": "Crude Oil Inventories",
       "impact": "High",
-      "forecast": null,
+      "forecast": "-0.200M",
       "actual": null,
       "previous": "-3.455M",
       "status": "upcoming",
