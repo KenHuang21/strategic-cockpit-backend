@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11T12:56:17.664226Z",
+  "updated_at": "2026-02-11T14:14:28.620244Z",
   "events": [
     {
       "id": "2ff8b41c06cf1656",
@@ -34,9 +34,9 @@
       "name": "Average Hourly Earnings (MoM) (Jan)",
       "impact": "High",
       "forecast": "0.3%",
-      "actual": null,
-      "previous": "0.3%",
-      "status": "upcoming",
+      "actual": "0.4%",
+      "previous": "0.1%",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -47,9 +47,9 @@
       "name": "Nonfarm Payrolls (Jan)",
       "impact": "High",
       "forecast": "66K",
-      "actual": null,
-      "previous": "50K",
-      "status": "upcoming",
+      "actual": "130K",
+      "previous": "48K",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -60,9 +60,9 @@
       "name": "Unemployment Rate (Jan)",
       "impact": "High",
       "forecast": "4.4%",
-      "actual": null,
+      "actual": "4.3%",
       "previous": "4.4%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
