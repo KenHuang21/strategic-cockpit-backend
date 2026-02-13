@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-02-12T23:23:25.469027Z",
+  "updated_at": "2026-02-13T01:47:42.517765Z",
   "events": [
-    {
-      "id": "2ff8b41c06cf1656",
-      "date": "2026-02-10",
-      "time": "08:30",
-      "name": "Core Retail Sales (MoM) (Dec)",
-      "impact": "High",
-      "forecast": "0.3%",
-      "actual": "0.0%",
-      "previous": "0.4%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "67ee25887494afc5",
-      "date": "2026-02-10",
-      "time": "08:30",
-      "name": "Retail Sales (MoM) (Dec)",
-      "impact": "High",
-      "forecast": "0.4%",
-      "actual": "0.0%",
-      "previous": "0.6%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "b3c7bb0e238daf61",
       "date": "2026-02-11",
@@ -88,6 +62,45 @@
       "forecast": null,
       "actual": "4.177%",
       "previous": "4.173%",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "95485ae3f8c8e2f3",
+      "date": "2026-02-12",
+      "time": "08:30",
+      "name": "Initial Jobless Claims",
+      "impact": "High",
+      "forecast": "222K",
+      "actual": "227K",
+      "previous": "232K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "ff86a4460af05fe6",
+      "date": "2026-02-12",
+      "time": "10:00",
+      "name": "Existing Home Sales (Jan)",
+      "impact": "High",
+      "forecast": "4.16M",
+      "actual": "3.91M",
+      "previous": "4.27M",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "59c2f10b1c4474a6",
+      "date": "2026-02-12",
+      "time": "13:00",
+      "name": "30-Year Bond Auction",
+      "impact": "High",
+      "forecast": null,
+      "actual": "4.750%",
+      "previous": "4.825%",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
