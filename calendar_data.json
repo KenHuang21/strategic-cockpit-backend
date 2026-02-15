@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-02-14T23:18:38.187040Z",
+  "updated_at": "2026-02-15T01:47:16.797864Z",
   "events": [
-    {
-      "id": "95485ae3f8c8e2f3",
-      "date": "2026-02-12",
-      "time": "08:30",
-      "name": "Initial Jobless Claims",
-      "impact": "High",
-      "forecast": "222K",
-      "actual": "227K",
-      "previous": "232K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "ff86a4460af05fe6",
-      "date": "2026-02-12",
-      "time": "10:00",
-      "name": "Existing Home Sales (Jan)",
-      "impact": "High",
-      "forecast": "4.16M",
-      "actual": "3.91M",
-      "previous": "4.27M",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "59c2f10b1c4474a6",
-      "date": "2026-02-12",
-      "time": "13:00",
-      "name": "30-Year Bond Auction",
-      "impact": "High",
-      "forecast": null,
-      "actual": "4.750%",
-      "previous": "4.825%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "3e9cc2ba148dddd7",
       "date": "2026-02-13",
