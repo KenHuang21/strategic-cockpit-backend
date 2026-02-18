@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-18T04:16:05.529094Z",
+  "updated_at": "2026-02-18T05:56:44.014580Z",
   "events": [
     {
       "id": "7e4464f2921da928",
@@ -7,7 +7,7 @@
       "time": "08:30",
       "name": "Durable Goods Orders (MoM) (Dec)",
       "impact": "High",
-      "forecast": "-1.7%",
+      "forecast": "-1.8%",
       "actual": null,
       "previous": "5.3%",
       "status": "upcoming",
