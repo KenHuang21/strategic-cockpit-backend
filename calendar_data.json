@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-18T23:24:07.614833Z",
+  "updated_at": "2026-02-19T01:44:19.594354Z",
   "events": [
     {
       "id": "7e4464f2921da928",
@@ -23,6 +23,32 @@
       "forecast": null,
       "actual": null,
       "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "1cec47507a5ddacc",
+      "date": "2026-02-19",
+      "time": "08:30",
+      "name": "Initial Jobless Claims",
+      "impact": "High",
+      "forecast": "223K",
+      "actual": null,
+      "previous": "227K",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "b23f17f86e0f34a7",
+      "date": "2026-02-19",
+      "time": "08:30",
+      "name": "Philadelphia Fed Manufacturing Index (Feb)",
+      "impact": "High",
+      "forecast": "7.5",
+      "actual": null,
+      "previous": "12.6",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
