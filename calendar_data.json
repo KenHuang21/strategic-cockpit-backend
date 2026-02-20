@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-19T23:24:35.665893Z",
+  "updated_at": "2026-02-20T01:27:40.181341Z",
   "events": [
     {
       "id": "7e4464f2921da928",
@@ -36,6 +36,32 @@
       "forecast": "223K",
       "actual": "206K",
       "previous": "229K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "b23f17f86e0f34a7",
+      "date": "2026-02-19",
+      "time": "08:30",
+      "name": "Philadelphia Fed Manufacturing Index (Feb)",
+      "impact": "High",
+      "forecast": "7.5",
+      "actual": "16.3",
+      "previous": "12.6",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "c5231d00d3cfbad5",
+      "date": "2026-02-19",
+      "time": "12:00",
+      "name": "Crude Oil Inventories",
+      "impact": "High",
+      "forecast": "1.700M",
+      "actual": "-9.014M",
+      "previous": "8.530M",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
