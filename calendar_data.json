@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-02-21T22:17:33.106851Z",
+  "updated_at": "2026-02-22T01:42:49.658839Z",
   "events": [
-    {
-      "id": "1cec47507a5ddacc",
-      "date": "2026-02-19",
-      "time": "08:30",
-      "name": "Initial Jobless Claims",
-      "impact": "High",
-      "forecast": "223K",
-      "actual": "206K",
-      "previous": "229K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "b23f17f86e0f34a7",
-      "date": "2026-02-19",
-      "time": "08:30",
-      "name": "Philadelphia Fed Manufacturing Index (Feb)",
-      "impact": "High",
-      "forecast": "7.5",
-      "actual": "16.3",
-      "previous": "12.6",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "c5231d00d3cfbad5",
-      "date": "2026-02-19",
-      "time": "12:00",
-      "name": "Crude Oil Inventories",
-      "impact": "High",
-      "forecast": "1.700M",
-      "actual": "-9.014M",
-      "previous": "8.530M",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "34038882466d7e25",
       "date": "2026-02-20",
@@ -128,6 +89,19 @@
       "actual": "745K",
       "previous": "656K",
       "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "7c252aae9855b62e",
+      "date": "2026-02-20",
+      "time": "12:45",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
