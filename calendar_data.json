@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-24T14:08:04.351130Z",
+  "updated_at": "2026-02-24T15:54:36.880218Z",
   "events": [
     {
       "id": "a26fa10716773d34",
@@ -8,9 +8,9 @@
       "name": "CB Consumer Confidence (Feb)",
       "impact": "High",
       "forecast": "87.4",
-      "actual": null,
-      "previous": "84.5",
-      "status": "upcoming",
+      "actual": "91.2",
+      "previous": "89.0",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
