@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-02-26T23:23:55.477566Z",
+  "updated_at": "2026-02-27T01:26:27.759136Z",
   "events": [
-    {
-      "id": "a26fa10716773d34",
-      "date": "2026-02-24",
-      "time": "10:00",
-      "name": "CB Consumer Confidence (Feb)",
-      "impact": "High",
-      "forecast": "87.4",
-      "actual": "91.2",
-      "previous": "89.0",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "e4d3c345f915bce9",
-      "date": "2026-02-24",
-      "time": "21:00",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "5ac80427b3d81646",
       "date": "2026-02-25",
@@ -36,6 +10,19 @@
       "forecast": "1.800M",
       "actual": "15.989M",
       "previous": "-9.014M",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "67d20b3cc24f3783",
+      "date": "2026-02-26",
+      "time": "08:30",
+      "name": "Initial Jobless Claims",
+      "impact": "High",
+      "forecast": "217K",
+      "actual": "212K",
+      "previous": "208K",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
