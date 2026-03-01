@@ -1,15 +1,28 @@
 {
-  "updated_at": "2026-02-28T23:15:59.504338Z",
+  "updated_at": "2026-03-01T01:48:46.016802Z",
   "events": [
     {
-      "id": "67d20b3cc24f3783",
-      "date": "2026-02-26",
+      "id": "eba4499db3b67d2b",
+      "date": "2026-02-27",
       "time": "08:30",
-      "name": "Initial Jobless Claims",
+      "name": "PPI (MoM) (Jan)",
       "impact": "High",
-      "forecast": "217K",
-      "actual": "212K",
-      "previous": "208K",
+      "forecast": "0.3%",
+      "actual": "0.5%",
+      "previous": "0.4%",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "563fb3a96a009464",
+      "date": "2026-02-27",
+      "time": "09:45",
+      "name": "Chicago PMI (Feb)",
+      "impact": "High",
+      "forecast": "52.0",
+      "actual": "57.7",
+      "previous": "54.0",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
