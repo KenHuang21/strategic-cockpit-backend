@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-02T18:38:19.225272Z",
+  "updated_at": "2026-03-02T19:33:12.964120Z",
   "events": [
     {
       "id": "9821051075b3ea6c",
@@ -37,6 +37,19 @@
       "actual": "70.5",
       "previous": "59.0",
       "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "82ef3a1047643a89",
+      "date": "2026-03-02",
+      "time": "11:00",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
