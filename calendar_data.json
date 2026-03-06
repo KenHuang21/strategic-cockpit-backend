@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-05T23:46:45.512002Z",
+  "updated_at": "2026-03-06T01:42:57.947755Z",
   "events": [
     {
       "id": "d2fb870c8f8dfafc",
@@ -62,6 +62,19 @@
       "forecast": "3.000M",
       "actual": "3.475M",
       "previous": "15.989M",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "014c0b1116488cc8",
+      "date": "2026-03-05",
+      "time": "08:30",
+      "name": "Initial Jobless Claims",
+      "impact": "High",
+      "forecast": "215K",
+      "actual": "213K",
+      "previous": "213K",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
