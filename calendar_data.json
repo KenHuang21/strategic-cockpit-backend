@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-08T14:20:04.367546Z",
+  "updated_at": "2026-03-08T16:21:19.921231Z",
   "events": [
     {
       "id": "39545d18050a0ee9",
       "date": "2026-03-06",
-      "time": "08:30",
+      "time": "09:30",
       "name": "Average Hourly Earnings (MoM) (Feb)",
       "impact": "High",
       "forecast": "0.3%",
@@ -17,7 +17,7 @@
     {
       "id": "0261a018ae05b0ff",
       "date": "2026-03-06",
-      "time": "08:30",
+      "time": "09:30",
       "name": "Core Retail Sales (MoM) (Jan)",
       "impact": "High",
       "forecast": "0.1%",
@@ -30,7 +30,7 @@
     {
       "id": "781919b647cf7428",
       "date": "2026-03-06",
-      "time": "08:30",
+      "time": "09:30",
       "name": "Nonfarm Payrolls (Feb)",
       "impact": "High",
       "forecast": "58K",
@@ -43,7 +43,7 @@
     {
       "id": "7a20363c5210f7ee",
       "date": "2026-03-06",
-      "time": "08:30",
+      "time": "09:30",
       "name": "Retail Sales (MoM) (Jan)",
       "impact": "High",
       "forecast": "-0.3%",
@@ -56,7 +56,7 @@
     {
       "id": "aa2374b451fb8d69",
       "date": "2026-03-06",
-      "time": "08:30",
+      "time": "09:30",
       "name": "Unemployment Rate (Feb)",
       "impact": "High",
       "forecast": "4.3%",
