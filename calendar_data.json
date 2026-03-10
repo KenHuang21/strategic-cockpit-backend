@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T10:33:28.263750Z",
+  "updated_at": "2026-03-10T11:28:16.709529Z",
   "events": [
     {
       "id": "146f4f897363f317",
@@ -46,7 +46,7 @@
       "time": "08:30",
       "name": "CPI (YoY) (Feb)",
       "impact": "High",
-      "forecast": "2.5%",
+      "forecast": "2.4%",
       "actual": null,
       "previous": "2.4%",
       "status": "upcoming",
