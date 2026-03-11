@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-11T17:44:04.974605Z",
+  "updated_at": "2026-03-11T18:46:13.666553Z",
   "events": [
     {
       "id": "146f4f897363f317",
@@ -28,19 +28,6 @@
       "notification_sent_release": false
     },
     {
-      "id": "f318974c45ed8ecb",
-      "date": "2026-03-11",
-      "time": "08:30",
-      "name": "CPI (MoM) (Feb)",
-      "impact": "High",
-      "forecast": "0.3%",
-      "actual": "0.3%",
-      "previous": "0.2%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
       "id": "d6efeb8247169549",
       "date": "2026-03-11",
       "time": "08:30",
@@ -49,6 +36,19 @@
       "forecast": "2.4%",
       "actual": "2.4%",
       "previous": "2.4%",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "f318974c45ed8ecb",
+      "date": "2026-03-11",
+      "time": "08:30",
+      "name": "CPI (MoM) (Feb)",
+      "impact": "High",
+      "forecast": "0.3%",
+      "actual": "0.3%",
+      "previous": "0.2%",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
