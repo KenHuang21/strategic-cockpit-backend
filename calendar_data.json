@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-16T10:59:23.622529Z",
+  "updated_at": "2026-03-16T11:51:30.008352Z",
   "events": [
     {
       "id": "3b76e086de0b047a",
@@ -62,19 +62,6 @@
       "forecast": "3.75%",
       "actual": null,
       "previous": "3.75%",
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "cebb07fc193df21d",
-      "date": "2026-03-18",
-      "time": "14:30",
-      "name": "FOMC Press Conference",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
