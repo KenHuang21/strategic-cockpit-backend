@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T06:57:09.115752Z",
+  "updated_at": "2026-03-17T07:53:04.687202Z",
   "events": [
     {
       "id": "387303ed0db22d2d",
@@ -36,19 +36,6 @@
       "forecast": null,
       "actual": null,
       "previous": "3.824M",
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "d32c9521d8da1a24",
-      "date": "2026-03-18",
-      "time": "14:00",
-      "name": "FOMC Economic Projections",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
