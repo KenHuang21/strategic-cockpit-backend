@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T12:58:30.367706Z",
+  "updated_at": "2026-03-17T14:19:13.467039Z",
   "events": [
     {
       "id": "387303ed0db22d2d",
@@ -62,6 +62,19 @@
       "forecast": null,
       "actual": null,
       "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "086c70419195d293",
+      "date": "2026-03-18",
+      "time": "14:00",
+      "name": "Fed Interest Rate Decision",
+      "impact": "High",
+      "forecast": "3.75%",
+      "actual": null,
+      "previous": "3.75%",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
