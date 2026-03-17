@@ -1,9 +1,22 @@
 {
-  "updated_at": "2026-03-17T15:59:25.892401Z",
+  "updated_at": "2026-03-17T17:08:37.507948Z",
   "events": [
     {
       "id": "387303ed0db22d2d",
       "date": "2026-03-16",
+      "time": "11:30",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "19de98ebcc794cc3",
+      "date": "2026-03-17",
       "time": "11:30",
       "name": "U.S. President Trump Speaks",
       "impact": "High",
@@ -62,19 +75,6 @@
       "forecast": null,
       "actual": null,
       "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "086c70419195d293",
-      "date": "2026-03-18",
-      "time": "14:00",
-      "name": "Fed Interest Rate Decision",
-      "impact": "High",
-      "forecast": "3.75%",
-      "actual": null,
-      "previous": "3.75%",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
