@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T23:26:54.728662Z",
+  "updated_at": "2026-03-18T04:20:28.365949Z",
   "events": [
     {
       "id": "387303ed0db22d2d",
@@ -58,6 +58,45 @@
       "date": "2026-03-18",
       "time": "14:00",
       "name": "FOMC Economic Projections",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "d9a10c5cf0c4a48b",
+      "date": "2026-03-18",
+      "time": "14:00",
+      "name": "FOMC Statement",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "086c70419195d293",
+      "date": "2026-03-18",
+      "time": "14:00",
+      "name": "Fed Interest Rate Decision",
+      "impact": "High",
+      "forecast": "3.75%",
+      "actual": null,
+      "previous": "3.75%",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "cebb07fc193df21d",
+      "date": "2026-03-18",
+      "time": "14:30",
+      "name": "FOMC Press Conference",
       "impact": "High",
       "forecast": null,
       "actual": null,
