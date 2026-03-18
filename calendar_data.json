@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-18T11:40:52.323687Z",
+  "updated_at": "2026-03-18T12:57:16.112533Z",
   "events": [
     {
       "id": "387303ed0db22d2d",
@@ -34,9 +34,9 @@
       "name": "PPI (MoM) (Feb)",
       "impact": "High",
       "forecast": "0.3%",
-      "actual": null,
+      "actual": "0.7%",
       "previous": "0.5%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
