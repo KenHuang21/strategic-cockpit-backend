@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-03-18T23:26:13.510774Z",
+  "updated_at": "2026-03-19T01:47:15.494573Z",
   "events": [
-    {
-      "id": "387303ed0db22d2d",
-      "date": "2026-03-16",
-      "time": "11:30",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "19de98ebcc794cc3",
       "date": "2026-03-17",
@@ -101,6 +88,32 @@
       "forecast": null,
       "actual": null,
       "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "564c290707603136",
+      "date": "2026-03-19",
+      "time": "08:30",
+      "name": "Initial Jobless Claims",
+      "impact": "High",
+      "forecast": "215K",
+      "actual": null,
+      "previous": "213K",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "948054f3f3775aef",
+      "date": "2026-03-19",
+      "time": "08:30",
+      "name": "Philadelphia Fed Manufacturing Index (Mar)",
+      "impact": "High",
+      "forecast": "8.3",
+      "actual": null,
+      "previous": "16.3",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
