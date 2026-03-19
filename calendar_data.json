@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T11:31:16.086114Z",
+  "updated_at": "2026-03-19T12:51:54.178850Z",
   "events": [
     {
       "id": "19de98ebcc794cc3",
@@ -99,9 +99,9 @@
       "name": "Initial Jobless Claims",
       "impact": "High",
       "forecast": "215K",
-      "actual": null,
+      "actual": "205K",
       "previous": "213K",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -112,9 +112,9 @@
       "name": "Philadelphia Fed Manufacturing Index (Mar)",
       "impact": "High",
       "forecast": "8.3",
-      "actual": null,
+      "actual": "18.1",
       "previous": "16.3",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
