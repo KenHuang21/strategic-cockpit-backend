@@ -1,84 +1,6 @@
 {
-  "updated_at": "2026-03-20T23:23:48.858313Z",
+  "updated_at": "2026-03-21T01:24:53.681300Z",
   "events": [
-    {
-      "id": "3b76e086de0b047a",
-      "date": "2026-03-18",
-      "time": "08:30",
-      "name": "PPI (MoM) (Feb)",
-      "impact": "High",
-      "forecast": "0.3%",
-      "actual": "0.7%",
-      "previous": "0.5%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "ef08ff9f7474e605",
-      "date": "2026-03-18",
-      "time": "10:30",
-      "name": "Crude Oil Inventories",
-      "impact": "High",
-      "forecast": "-1.500M",
-      "actual": "6.156M",
-      "previous": "3.824M",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "d32c9521d8da1a24",
-      "date": "2026-03-18",
-      "time": "14:00",
-      "name": "FOMC Economic Projections",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "d9a10c5cf0c4a48b",
-      "date": "2026-03-18",
-      "time": "14:00",
-      "name": "FOMC Statement",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "086c70419195d293",
-      "date": "2026-03-18",
-      "time": "14:00",
-      "name": "Fed Interest Rate Decision",
-      "impact": "High",
-      "forecast": "3.75%",
-      "actual": "3.75%",
-      "previous": "3.75%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "cebb07fc193df21d",
-      "date": "2026-03-18",
-      "time": "14:30",
-      "name": "FOMC Press Conference",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "564c290707603136",
       "date": "2026-03-19",
@@ -115,6 +37,19 @@
       "actual": "587K",
       "previous": "712K",
       "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "605e3d01fa879b59",
+      "date": "2026-03-21",
+      "time": "10:30",
+      "name": "Fed Chair Powell Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
