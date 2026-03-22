@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-03-21T23:18:59.588296Z",
+  "updated_at": "2026-03-22T01:46:07.257857Z",
   "events": [
-    {
-      "id": "564c290707603136",
-      "date": "2026-03-19",
-      "time": "08:30",
-      "name": "Initial Jobless Claims",
-      "impact": "High",
-      "forecast": "215K",
-      "actual": "205K",
-      "previous": "213K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "948054f3f3775aef",
-      "date": "2026-03-19",
-      "time": "08:30",
-      "name": "Philadelphia Fed Manufacturing Index (Mar)",
-      "impact": "High",
-      "forecast": "8.3",
-      "actual": "18.1",
-      "previous": "16.3",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "454524d96bd44d6d",
-      "date": "2026-03-19",
-      "time": "10:00",
-      "name": "New Home Sales (Jan)",
-      "impact": "High",
-      "forecast": "722K",
-      "actual": "587K",
-      "previous": "712K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "605e3d01fa879b59",
       "date": "2026-03-21",
@@ -49,6 +10,32 @@
       "forecast": null,
       "actual": null,
       "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "de9e198cbf6541d4",
+      "date": "2026-03-24",
+      "time": "09:45",
+      "name": "S&P Global Manufacturing PMI (Mar)",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": "51.6",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "3df1ee9d4398c4f1",
+      "date": "2026-03-24",
+      "time": "09:45",
+      "name": "S&P Global Services PMI (Mar)",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": "51.7",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
