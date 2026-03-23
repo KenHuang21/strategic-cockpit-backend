@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T23:21:38.594555Z",
+  "updated_at": "2026-03-23T01:47:30.174750Z",
   "events": [
     {
       "id": "605e3d01fa879b59",
@@ -36,6 +36,19 @@
       "forecast": null,
       "actual": null,
       "previous": "51.7",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "550a7b320ea1b9e8",
+      "date": "2026-03-25",
+      "time": "10:30",
+      "name": "Crude Oil Inventories",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": "6.156M",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
