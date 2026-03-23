@@ -1,11 +1,24 @@
 {
-  "updated_at": "2026-03-23T12:53:37.596529Z",
+  "updated_at": "2026-03-23T14:12:56.688847Z",
   "events": [
     {
       "id": "605e3d01fa879b59",
       "date": "2026-03-21",
       "time": "10:30",
       "name": "Fed Chair Powell Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "bb7af93dbb765cfa",
+      "date": "2026-03-23",
+      "time": "09:30",
+      "name": "U.S. President Trump Speaks",
       "impact": "High",
       "forecast": null,
       "actual": null,
