@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T12:58:08.569135Z",
+  "updated_at": "2026-03-24T14:19:17.985239Z",
   "events": [
     {
       "id": "bb7af93dbb765cfa",
@@ -21,9 +21,9 @@
       "name": "S&P Global Manufacturing PMI (Mar)",
       "impact": "High",
       "forecast": "51.5",
-      "actual": null,
+      "actual": "52.4",
       "previous": "51.6",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -34,9 +34,9 @@
       "name": "S&P Global Services PMI (Mar)",
       "impact": "High",
       "forecast": "52.0",
-      "actual": null,
+      "actual": "51.1",
       "previous": "51.7",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
