@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-03-25T23:28:42.087831Z",
+  "updated_at": "2026-03-26T01:51:10.615212Z",
   "events": [
-    {
-      "id": "bb7af93dbb765cfa",
-      "date": "2026-03-23",
-      "time": "09:30",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "de9e198cbf6541d4",
       "date": "2026-03-24",
@@ -50,6 +37,19 @@
       "actual": "6.926M",
       "previous": "6.156M",
       "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "134feb65a32fb356",
+      "date": "2026-03-25",
+      "time": "19:20",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
