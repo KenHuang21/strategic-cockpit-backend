@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T11:23:56.363277Z",
+  "updated_at": "2026-03-28T12:41:09.280547Z",
   "events": [
     {
       "id": "f1fc863e3bab84fe",
@@ -31,6 +31,19 @@
       "id": "6678de3b4568e445",
       "date": "2026-03-26",
       "time": "16:00",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "ea042c0ed5ca6883",
+      "date": "2026-03-27",
+      "time": "17:30",
       "name": "U.S. President Trump Speaks",
       "impact": "High",
       "forecast": null,
