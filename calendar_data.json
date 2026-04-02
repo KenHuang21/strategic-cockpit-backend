@@ -1,16 +1,42 @@
 {
-  "updated_at": "2026-04-01T23:31:16.410309Z",
+  "updated_at": "2026-04-02T01:49:10.687374Z",
   "events": [
     {
-      "id": "ecaa45d0f48be66a",
-      "date": "2026-03-30",
-      "time": "10:30",
-      "name": "Fed Chair Powell Speaks",
+      "id": "1fefe2cdc5b144fa",
+      "date": "2026-03-31",
+      "time": "09:45",
+      "name": "Chicago PMI (Mar)",
       "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
+      "forecast": "54.8",
+      "actual": "52.8",
+      "previous": "57.7",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "e5f82a22fb3db6e4",
+      "date": "2026-03-31",
+      "time": "10:00",
+      "name": "CB Consumer Confidence (Mar)",
+      "impact": "High",
+      "forecast": "87.8",
+      "actual": "91.8",
+      "previous": "91.0",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "75c34e0f5a6e16b6",
+      "date": "2026-03-31",
+      "time": "10:00",
+      "name": "JOLTS Job Openings (Feb)",
+      "impact": "High",
+      "forecast": "6.890M",
+      "actual": "6.882M",
+      "previous": "7.240M",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
