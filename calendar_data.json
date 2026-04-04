@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T18:33:42.446471Z",
+  "updated_at": "2026-04-04T19:26:47.651303Z",
   "events": [
     {
       "id": "88c56671e6c056c3",
@@ -72,7 +72,7 @@
       "time": "10:00",
       "name": "ISM Non-Manufacturing PMI (Mar)",
       "impact": "High",
-      "forecast": "55.0",
+      "forecast": "54.8",
       "actual": null,
       "previous": "56.1",
       "status": "upcoming",
