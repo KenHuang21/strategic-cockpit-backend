@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-04-04T23:25:14.313224Z",
+  "updated_at": "2026-04-05T01:55:53.273874Z",
   "events": [
-    {
-      "id": "88c56671e6c056c3",
-      "date": "2026-04-02",
-      "time": "08:30",
-      "name": "Initial Jobless Claims",
-      "impact": "High",
-      "forecast": "212K",
-      "actual": "202K",
-      "previous": "211K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "62a31bb2deec576d",
       "date": "2026-04-03",
@@ -88,6 +75,19 @@
       "forecast": null,
       "actual": null,
       "previous": "63.0",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "6bebf48543d02cf8",
+      "date": "2026-04-07",
+      "time": "08:30",
+      "name": "Durable Goods Orders (MoM) (Feb)",
+      "impact": "High",
+      "forecast": "-1.0%",
+      "actual": null,
+      "previous": "0.0%",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
