@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T13:08:20.908918Z",
+  "updated_at": "2026-04-08T16:55:42.311405Z",
   "events": [
     {
       "id": "a6f2f38a794f8ffb",
@@ -60,9 +60,9 @@
       "name": "Crude Oil Inventories",
       "impact": "High",
       "forecast": "-1.000M",
-      "actual": null,
+      "actual": "3.081M",
       "previous": "5.451M",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -75,6 +75,19 @@
       "forecast": null,
       "actual": null,
       "previous": "4.217%",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "3957ec25d1989577",
+      "date": "2026-04-08",
+      "time": "14:00",
+      "name": "FOMC Meeting Minutes",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
