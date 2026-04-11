@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-04-10T23:29:42.306291Z",
+  "updated_at": "2026-04-11T01:48:32.649054Z",
   "events": [
-    {
-      "id": "235d052771cce9df",
-      "date": "2026-04-08",
-      "time": "10:30",
-      "name": "Crude Oil Inventories",
-      "impact": "High",
-      "forecast": "-1.000M",
-      "actual": "3.081M",
-      "previous": "5.451M",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "5bb38de02141264a",
-      "date": "2026-04-08",
-      "time": "13:00",
-      "name": "10-Year Note Auction",
-      "impact": "High",
-      "forecast": null,
-      "actual": "4.282%",
-      "previous": "4.217%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "3957ec25d1989577",
-      "date": "2026-04-08",
-      "time": "14:00",
-      "name": "FOMC Meeting Minutes",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "fa8c6c55771cb09d",
       "date": "2026-04-09",
@@ -101,6 +62,45 @@
       "forecast": null,
       "actual": "4.876%",
       "previous": "4.871%",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "918385535cc9f285",
+      "date": "2026-04-10",
+      "time": "08:30",
+      "name": "Core CPI (MoM) (Mar)",
+      "impact": "High",
+      "forecast": "0.3%",
+      "actual": "0.2%",
+      "previous": "0.2%",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "f41a67f870092109",
+      "date": "2026-04-10",
+      "time": "08:30",
+      "name": "CPI (YoY) (Mar)",
+      "impact": "High",
+      "forecast": "3.4%",
+      "actual": "3.3%",
+      "previous": "2.4%",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "5580620498fa56e2",
+      "date": "2026-04-10",
+      "time": "08:30",
+      "name": "CPI (MoM) (Mar)",
+      "impact": "High",
+      "forecast": "1.0%",
+      "actual": "0.9%",
+      "previous": "0.3%",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
