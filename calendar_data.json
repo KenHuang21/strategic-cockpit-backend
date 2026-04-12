@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T11:29:49.627210Z",
+  "updated_at": "2026-04-12T12:48:25.885327Z",
   "events": [
     {
       "id": "918385535cc9f285",
@@ -49,6 +49,19 @@
       "forecast": "4.07M",
       "actual": null,
       "previous": "4.09M",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "28727c0a49ba44dc",
+      "date": "2026-04-14",
+      "time": "08:30",
+      "name": "PPI (MoM) (Mar)",
+      "impact": "High",
+      "forecast": "1.2%",
+      "actual": null,
+      "previous": "0.7%",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
