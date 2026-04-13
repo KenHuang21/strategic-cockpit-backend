@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T13:12:12.905822Z",
+  "updated_at": "2026-04-13T17:01:41.024590Z",
   "events": [
     {
       "id": "edc12fc119dbe0f5",
@@ -8,9 +8,9 @@
       "name": "Existing Home Sales (Mar)",
       "impact": "High",
       "forecast": "4.07M",
-      "actual": null,
-      "previous": "4.09M",
-      "status": "upcoming",
+      "actual": "3.98M",
+      "previous": "4.13M",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
