@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-04-16T23:35:32.815674Z",
+  "updated_at": "2026-04-17T02:00:58.614479Z",
   "events": [
-    {
-      "id": "28727c0a49ba44dc",
-      "date": "2026-04-14",
-      "time": "08:30",
-      "name": "PPI (MoM) (Mar)",
-      "impact": "High",
-      "forecast": "1.1%",
-      "actual": "0.5%",
-      "previous": "0.5%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "a038349f1bfa2f13",
       "date": "2026-04-15",
@@ -50,6 +37,45 @@
       "actual": "-0.913M",
       "previous": "3.081M",
       "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "6c1f4b9eb03c9a01",
+      "date": "2026-04-16",
+      "time": "08:30",
+      "name": "Initial Jobless Claims",
+      "impact": "High",
+      "forecast": "213K",
+      "actual": "207K",
+      "previous": "218K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "a8e272dd106ed17f",
+      "date": "2026-04-16",
+      "time": "08:30",
+      "name": "Philadelphia Fed Manufacturing Index (Apr)",
+      "impact": "High",
+      "forecast": "10.3",
+      "actual": "26.7",
+      "previous": "18.1",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "3f46d1243e472686",
+      "date": "2026-04-16",
+      "time": "19:00",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
