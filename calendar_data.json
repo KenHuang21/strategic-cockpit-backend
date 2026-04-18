@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-04-17T23:33:49.114799Z",
+  "updated_at": "2026-04-18T01:51:53.516432Z",
   "events": [
-    {
-      "id": "a038349f1bfa2f13",
-      "date": "2026-04-15",
-      "time": "06:00",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "a038349f1bfa2f13",
-      "date": "2026-04-15",
-      "time": "06:00",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "6c8334441cfa2631",
-      "date": "2026-04-15",
-      "time": "10:30",
-      "name": "Crude Oil Inventories",
-      "impact": "High",
-      "forecast": "2.100M",
-      "actual": "-0.913M",
-      "previous": "3.081M",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "6c1f4b9eb03c9a01",
       "date": "2026-04-16",
@@ -70,6 +31,19 @@
       "id": "3f46d1243e472686",
       "date": "2026-04-16",
       "time": "19:00",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "37fb361034ba374a",
+      "date": "2026-04-17",
+      "time": "14:00",
       "name": "U.S. President Trump Speaks",
       "impact": "High",
       "forecast": null,
