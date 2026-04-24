@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-04-23T23:39:24.155407Z",
+  "updated_at": "2026-04-24T02:04:35.288053Z",
   "events": [
-    {
-      "id": "44530da47cec7904",
-      "date": "2026-04-21",
-      "time": "08:30",
-      "name": "Core Retail Sales (MoM) (Mar)",
-      "impact": "High",
-      "forecast": "1.4%",
-      "actual": "1.9%",
-      "previous": "0.7%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "550488ca5ecd456f",
-      "date": "2026-04-21",
-      "time": "08:30",
-      "name": "Retail Sales (MoM) (Mar)",
-      "impact": "High",
-      "forecast": "1.4%",
-      "actual": "1.7%",
-      "previous": "0.7%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "9c73d76b796ca7bb",
-      "date": "2026-04-21",
-      "time": "08:30",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "0e0df3e96a21dce7",
       "date": "2026-04-22",
@@ -49,6 +10,45 @@
       "forecast": "-1.900M",
       "actual": "1.925M",
       "previous": "-0.913M",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "4c0500e9bc460cd0",
+      "date": "2026-04-23",
+      "time": "08:30",
+      "name": "Initial Jobless Claims",
+      "impact": "High",
+      "forecast": "211K",
+      "actual": "214K",
+      "previous": "208K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "5f8c5599f454ca6f",
+      "date": "2026-04-23",
+      "time": "09:45",
+      "name": "S&P Global Manufacturing PMI (Apr)",
+      "impact": "High",
+      "forecast": "52.5",
+      "actual": "54.0",
+      "previous": "52.3",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "6cc140f25188cb4d",
+      "date": "2026-04-23",
+      "time": "09:45",
+      "name": "S&P Global Services PMI (Apr)",
+      "impact": "High",
+      "forecast": "50.5",
+      "actual": "51.3",
+      "previous": "49.8",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
