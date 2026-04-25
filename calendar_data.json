@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-04-24T23:35:08.600487Z",
+  "updated_at": "2026-04-25T01:54:25.686053Z",
   "events": [
-    {
-      "id": "0e0df3e96a21dce7",
-      "date": "2026-04-22",
-      "time": "10:30",
-      "name": "Crude Oil Inventories",
-      "impact": "High",
-      "forecast": "-1.900M",
-      "actual": "1.925M",
-      "previous": "-0.913M",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "4c0500e9bc460cd0",
       "date": "2026-04-23",
@@ -50,6 +37,19 @@
       "actual": "51.3",
       "previous": "49.8",
       "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "af38524c50d0c083",
+      "date": "2026-04-25",
+      "time": "12:00",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
