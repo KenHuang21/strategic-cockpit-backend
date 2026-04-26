@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-04-25T23:31:39.515644Z",
+  "updated_at": "2026-04-26T02:07:41.003860Z",
   "events": [
-    {
-      "id": "4c0500e9bc460cd0",
-      "date": "2026-04-23",
-      "time": "08:30",
-      "name": "Initial Jobless Claims",
-      "impact": "High",
-      "forecast": "211K",
-      "actual": "214K",
-      "previous": "208K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "5f8c5599f454ca6f",
-      "date": "2026-04-23",
-      "time": "09:45",
-      "name": "S&P Global Manufacturing PMI (Apr)",
-      "impact": "High",
-      "forecast": "52.5",
-      "actual": "54.0",
-      "previous": "52.3",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "6cc140f25188cb4d",
-      "date": "2026-04-23",
-      "time": "09:45",
-      "name": "S&P Global Services PMI (Apr)",
-      "impact": "High",
-      "forecast": "50.5",
-      "actual": "51.3",
-      "previous": "49.8",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "af38524c50d0c083",
       "date": "2026-04-25",
@@ -49,6 +10,19 @@
       "forecast": null,
       "actual": null,
       "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "aeea322d18fc4550",
+      "date": "2026-04-28",
+      "time": "10:00",
+      "name": "CB Consumer Confidence (Apr)",
+      "impact": "High",
+      "forecast": "89.4",
+      "actual": null,
+      "previous": "91.8",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
