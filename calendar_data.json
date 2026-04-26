@@ -1,10 +1,23 @@
 {
-  "updated_at": "2026-04-26T02:07:41.003860Z",
+  "updated_at": "2026-04-26T05:33:20.711784Z",
   "events": [
     {
       "id": "af38524c50d0c083",
       "date": "2026-04-25",
       "time": "12:00",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "af38524c50d0c083",
+      "date": "2026-04-25",
+      "time": "22:45",
       "name": "U.S. President Trump Speaks",
       "impact": "High",
       "forecast": null,
