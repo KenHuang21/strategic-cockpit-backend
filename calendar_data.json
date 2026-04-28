@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-04-27T23:46:19.099159Z",
+  "updated_at": "2026-04-28T08:13:38.245246Z",
   "events": [
-    {
-      "id": "af38524c50d0c083",
-      "date": "2026-04-25",
-      "time": "12:00",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "af38524c50d0c083",
-      "date": "2026-04-25",
-      "time": "22:45",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "90182417addd35fa",
       "date": "2026-04-26",
@@ -46,7 +20,7 @@
       "time": "10:00",
       "name": "CB Consumer Confidence (Apr)",
       "impact": "High",
-      "forecast": "89.4",
+      "forecast": "89.0",
       "actual": null,
       "previous": "91.8",
       "status": "upcoming",
