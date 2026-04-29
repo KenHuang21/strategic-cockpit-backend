@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T12:13:28.767455Z",
+  "updated_at": "2026-04-29T17:21:53.673865Z",
   "events": [
     {
       "id": "aeea322d18fc4550",
@@ -21,9 +21,9 @@
       "name": "Durable Goods Orders (MoM) (Mar)",
       "impact": "High",
       "forecast": "0.4%",
-      "actual": null,
-      "previous": "-1.3%",
-      "status": "upcoming",
+      "actual": "0.8%",
+      "previous": "-1.2%",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -34,9 +34,9 @@
       "name": "Crude Oil Inventories",
       "impact": "High",
       "forecast": "0.300M",
-      "actual": null,
+      "actual": "-6.234M",
       "previous": "1.925M",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
