@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T23:55:59.052992Z",
+  "updated_at": "2026-04-30T02:33:26.146755Z",
   "events": [
     {
       "id": "aeea322d18fc4550",
@@ -37,6 +37,45 @@
       "actual": "-6.234M",
       "previous": "1.925M",
       "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "9fc9a6d07c97c6ee",
+      "date": "2026-04-29",
+      "time": "14:00",
+      "name": "FOMC Statement",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "fe66d3bcbae4e700",
+      "date": "2026-04-29",
+      "time": "14:00",
+      "name": "Fed Interest Rate Decision",
+      "impact": "High",
+      "forecast": "3.75%",
+      "actual": "3.75%",
+      "previous": "3.75%",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "dc2be4bfff20a734",
+      "date": "2026-04-29",
+      "time": "14:30",
+      "name": "FOMC Press Conference",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
