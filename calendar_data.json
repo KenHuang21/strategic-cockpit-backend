@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-04-30T23:45:43.267189Z",
+  "updated_at": "2026-05-01T02:31:58.022060Z",
   "events": [
-    {
-      "id": "aeea322d18fc4550",
-      "date": "2026-04-28",
-      "time": "10:00",
-      "name": "CB Consumer Confidence (Apr)",
-      "impact": "High",
-      "forecast": "89.0",
-      "actual": "92.8",
-      "previous": "92.2",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "f7aed9f431b57e85",
       "date": "2026-04-29",
