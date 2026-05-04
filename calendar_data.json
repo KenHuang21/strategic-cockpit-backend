@@ -1,58 +1,6 @@
 {
-  "updated_at": "2026-05-03T23:38:23.357014Z",
+  "updated_at": "2026-05-04T02:13:25.805504Z",
   "events": [
-    {
-      "id": "30fedf7f0597e9ba",
-      "date": "2026-05-01",
-      "time": "09:45",
-      "name": "S&P Global Manufacturing PMI (Apr)",
-      "impact": "High",
-      "forecast": "54.0",
-      "actual": "54.5",
-      "previous": "54.0",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "a7bb640944efd489",
-      "date": "2026-05-01",
-      "time": "10:00",
-      "name": "ISM Manufacturing PMI (Apr)",
-      "impact": "High",
-      "forecast": "53.1",
-      "actual": "52.7",
-      "previous": "52.7",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "f49851cd8b98c61f",
-      "date": "2026-05-01",
-      "time": "10:00",
-      "name": "ISM Manufacturing Prices (Apr)",
-      "impact": "High",
-      "forecast": "80.0",
-      "actual": "84.6",
-      "previous": "78.3",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "817c2fa914e9f905",
-      "date": "2026-05-01",
-      "time": "15:00",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "97eda199972da606",
       "date": "2026-05-05",
