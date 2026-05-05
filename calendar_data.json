@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T13:27:59.244507Z",
+  "updated_at": "2026-05-05T15:48:55.846349Z",
   "events": [
     {
       "id": "97eda199972da606",
@@ -8,9 +8,22 @@
       "name": "S&P Global Services PMI (Apr)",
       "impact": "High",
       "forecast": "51.3",
-      "actual": null,
+      "actual": "51.0",
       "previous": "49.8",
-      "status": "upcoming",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "129bb5a14c78cfcf",
+      "date": "2026-05-05",
+      "time": "09:59",
+      "name": "New Home Sales (Feb)",
+      "impact": "High",
+      "forecast": null,
+      "actual": "635K",
+      "previous": "587K",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -21,9 +34,9 @@
       "name": "ISM Non-Manufacturing PMI (Apr)",
       "impact": "High",
       "forecast": "53.7",
-      "actual": null,
+      "actual": "53.6",
       "previous": "54.0",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -33,10 +46,10 @@
       "time": "10:00",
       "name": "ISM Non-Manufacturing Prices (Apr)",
       "impact": "High",
-      "forecast": null,
-      "actual": null,
+      "forecast": "73.7",
+      "actual": "70.7",
       "previous": "70.7",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -47,9 +60,9 @@
       "name": "JOLTS Job Openings (Mar)",
       "impact": "High",
       "forecast": "6.860M",
-      "actual": null,
-      "previous": "6.882M",
-      "status": "upcoming",
+      "actual": "6.866M",
+      "previous": "6.922M",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -60,9 +73,9 @@
       "name": "New Home Sales (Mar)",
       "impact": "High",
       "forecast": "652K",
-      "actual": null,
-      "previous": "587K",
-      "status": "upcoming",
+      "actual": "682K",
+      "previous": "583K",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
