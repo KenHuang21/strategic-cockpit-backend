@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T08:00:22.889412Z",
+  "updated_at": "2026-05-05T10:08:29.363332Z",
   "events": [
     {
       "id": "97eda199972da606",
@@ -59,7 +59,7 @@
       "time": "10:00",
       "name": "New Home Sales (Mar)",
       "impact": "High",
-      "forecast": "1K",
+      "forecast": "652K",
       "actual": null,
       "previous": "587K",
       "status": "upcoming",
