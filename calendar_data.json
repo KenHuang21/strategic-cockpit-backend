@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T02:11:30.547113Z",
+  "updated_at": "2026-05-05T05:37:06.513236Z",
   "events": [
     {
       "id": "97eda199972da606",
@@ -9,7 +9,7 @@
       "impact": "High",
       "forecast": "51.3",
       "actual": null,
-      "previous": "51.3",
+      "previous": "49.8",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
@@ -20,7 +20,7 @@
       "time": "10:00",
       "name": "ISM Non-Manufacturing PMI (Apr)",
       "impact": "High",
-      "forecast": "53.8",
+      "forecast": "53.7",
       "actual": null,
       "previous": "54.0",
       "status": "upcoming",
@@ -46,7 +46,7 @@
       "time": "10:00",
       "name": "JOLTS Job Openings (Mar)",
       "impact": "High",
-      "forecast": "6.870M",
+      "forecast": "6.860M",
       "actual": null,
       "previous": "6.882M",
       "status": "upcoming",
