@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T19:10:09.316883Z",
+  "updated_at": "2026-05-05T20:56:54.534478Z",
   "events": [
     {
       "id": "97eda199972da606",
@@ -22,7 +22,7 @@
       "impact": "High",
       "forecast": null,
       "actual": "635K",
-      "previous": "587K",
+      "previous": "583K",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
@@ -74,7 +74,7 @@
       "impact": "High",
       "forecast": "652K",
       "actual": "682K",
-      "previous": "583K",
+      "previous": "635K",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
