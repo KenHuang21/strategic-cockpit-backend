@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T23:43:46.927531Z",
+  "updated_at": "2026-05-07T02:15:24.398688Z",
   "events": [
     {
       "id": "97eda199972da606",
@@ -75,6 +75,32 @@
       "forecast": "652K",
       "actual": "682K",
       "previous": "635K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "b9bf6e77b9a5b822",
+      "date": "2026-05-06",
+      "time": "08:15",
+      "name": "ADP Nonfarm Employment Change (Apr)",
+      "impact": "High",
+      "forecast": "118K",
+      "actual": "109K",
+      "previous": "61K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "527fad0e6e12b612",
+      "date": "2026-05-06",
+      "time": "10:30",
+      "name": "Crude Oil Inventories",
+      "impact": "High",
+      "forecast": "-3.400M",
+      "actual": "-2.313M",
+      "previous": "-6.234M",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
