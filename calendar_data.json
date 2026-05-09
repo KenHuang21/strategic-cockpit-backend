@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-05-08T23:51:53.175089Z",
+  "updated_at": "2026-05-09T02:23:59.356278Z",
   "events": [
-    {
-      "id": "b9bf6e77b9a5b822",
-      "date": "2026-05-06",
-      "time": "08:15",
-      "name": "ADP Nonfarm Employment Change (Apr)",
-      "impact": "High",
-      "forecast": "118K",
-      "actual": "109K",
-      "previous": "61K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "527fad0e6e12b612",
-      "date": "2026-05-06",
-      "time": "10:30",
-      "name": "Crude Oil Inventories",
-      "impact": "High",
-      "forecast": "-3.400M",
-      "actual": "-2.313M",
-      "previous": "-6.234M",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "4e85ac8765839adb",
       "date": "2026-05-07",
@@ -37,6 +11,58 @@
       "actual": "200K",
       "previous": "190K",
       "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "af0faf37272c0744",
+      "date": "2026-05-08",
+      "time": "08:30",
+      "name": "Average Hourly Earnings (MoM) (Apr)",
+      "impact": "High",
+      "forecast": "0.3%",
+      "actual": "0.2%",
+      "previous": "0.2%",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "8299091dabd98fec",
+      "date": "2026-05-08",
+      "time": "08:30",
+      "name": "Nonfarm Payrolls (Apr)",
+      "impact": "High",
+      "forecast": "65K",
+      "actual": "115K",
+      "previous": "185K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "cea7fab80c699996",
+      "date": "2026-05-08",
+      "time": "08:30",
+      "name": "Unemployment Rate (Apr)",
+      "impact": "High",
+      "forecast": "4.3%",
+      "actual": "4.3%",
+      "previous": "4.3%",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "b5d21dd36db16132",
+      "date": "2026-05-08",
+      "time": "12:00",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
