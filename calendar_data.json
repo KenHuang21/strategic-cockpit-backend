@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-05-09T23:40:47.857942Z",
+  "updated_at": "2026-05-10T02:26:44.563209Z",
   "events": [
-    {
-      "id": "4e85ac8765839adb",
-      "date": "2026-05-07",
-      "time": "08:30",
-      "name": "Initial Jobless Claims",
-      "impact": "High",
-      "forecast": "205K",
-      "actual": "200K",
-      "previous": "190K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "af0faf37272c0744",
       "date": "2026-05-08",
@@ -62,6 +49,19 @@
       "forecast": null,
       "actual": null,
       "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "777c002a62eddce2",
+      "date": "2026-05-11",
+      "time": "10:00",
+      "name": "Existing Home Sales (Apr)",
+      "impact": "High",
+      "forecast": "4.05M",
+      "actual": null,
+      "previous": "3.98M",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
