@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T13:41:54.518897Z",
+  "updated_at": "2026-05-11T16:27:20.968397Z",
   "events": [
     {
       "id": "777c002a62eddce2",
@@ -8,9 +8,9 @@
       "name": "Existing Home Sales (Apr)",
       "impact": "High",
       "forecast": "4.05M",
-      "actual": null,
-      "previous": "3.98M",
-      "status": "upcoming",
+      "actual": "4.02M",
+      "previous": "4.01M",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -62,32 +62,6 @@
       "forecast": null,
       "actual": null,
       "previous": "4.282%",
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "1de803b0e51c4771",
-      "date": "2026-05-13",
-      "time": "08:30",
-      "name": "PPI (MoM) (Apr)",
-      "impact": "High",
-      "forecast": "0.5%",
-      "actual": null,
-      "previous": "0.5%",
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "ab5c8fb7a783f064",
-      "date": "2026-05-13",
-      "time": "10:30",
-      "name": "Crude Oil Inventories",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": "-2.313M",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
