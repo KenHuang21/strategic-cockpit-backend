@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-05-15T23:50:43.762762Z",
+  "updated_at": "2026-05-16T02:26:39.395921Z",
   "events": [
-    {
-      "id": "1de803b0e51c4771",
-      "date": "2026-05-13",
-      "time": "08:30",
-      "name": "PPI (MoM) (Apr)",
-      "impact": "High",
-      "forecast": "0.5%",
-      "actual": "1.4%",
-      "previous": "0.7%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "ab5c8fb7a783f064",
-      "date": "2026-05-13",
-      "time": "10:30",
-      "name": "Crude Oil Inventories",
-      "impact": "High",
-      "forecast": "-2.000M",
-      "actual": "-4.306M",
-      "previous": "-2.313M",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "b0be0ed82fc87d15",
-      "date": "2026-05-13",
-      "time": "13:00",
-      "name": "30-Year Bond Auction",
-      "impact": "High",
-      "forecast": null,
-      "actual": "5.050%",
-      "previous": "4.876%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "9f45552650dac39c",
       "date": "2026-05-14",
