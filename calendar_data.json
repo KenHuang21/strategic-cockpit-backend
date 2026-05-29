@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-05-28T22:29:29.858273Z",
+  "updated_at": "2026-05-29T00:06:13.950579Z",
   "events": [
-    {
-      "id": "70a21a6747d1417a",
-      "date": "2026-05-26",
-      "time": "10:00",
-      "name": "CB Consumer Confidence (May)",
-      "impact": "High",
-      "forecast": "91.9",
-      "actual": "93.1",
-      "previous": "93.8",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "ffc6d79dce8ea15d",
       "date": "2026-05-28",
@@ -75,6 +62,32 @@
       "forecast": "211K",
       "actual": "215K",
       "previous": "210K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "874e5203dfbb3bf1",
+      "date": "2026-05-28",
+      "time": "10:00",
+      "name": "New Home Sales (Apr)",
+      "impact": "High",
+      "forecast": "661K",
+      "actual": "622K",
+      "previous": "663K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "53fdff8dd8cc7345",
+      "date": "2026-05-28",
+      "time": "12:00",
+      "name": "Crude Oil Inventories",
+      "impact": "High",
+      "forecast": "-3.800M",
+      "actual": "-3.327M",
+      "previous": "-7.863M",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
