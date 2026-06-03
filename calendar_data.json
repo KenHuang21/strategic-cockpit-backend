@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-06-02T02:56:41.537219Z",
+  "updated_at": "2026-06-03T00:26:13.982885Z",
   "events": [
-    {
-      "id": "cab22161cd99be12",
-      "date": "2026-05-31",
-      "time": "20:30",
-      "name": "Fed Chair Powell Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "a10bda832d6c4ac7",
       "date": "2026-06-01",
@@ -59,10 +46,10 @@
       "time": "10:00",
       "name": "JOLTS Job Openings (Apr)",
       "impact": "High",
-      "forecast": "6.870M",
-      "actual": null,
-      "previous": "6.866M",
-      "status": "upcoming",
+      "forecast": "6.860M",
+      "actual": "7.618M",
+      "previous": "6.887M",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
