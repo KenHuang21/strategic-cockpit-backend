@@ -1,71 +1,6 @@
 {
-  "updated_at": "2026-06-05T23:01:27.708215Z",
+  "updated_at": "2026-06-06T19:10:48.185133Z",
   "events": [
-    {
-      "id": "19115c8fd2079354",
-      "date": "2026-06-03",
-      "time": "08:15",
-      "name": "ADP Nonfarm Employment Change (May)",
-      "impact": "High",
-      "forecast": "118K",
-      "actual": "122K",
-      "previous": "105K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "e7873637bdb9447d",
-      "date": "2026-06-03",
-      "time": "09:45",
-      "name": "S&P Global Services PMI (May)",
-      "impact": "High",
-      "forecast": "50.9",
-      "actual": "50.7",
-      "previous": "50.9",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "3341cbd3d602dc64",
-      "date": "2026-06-03",
-      "time": "10:00",
-      "name": "ISM Non-Manufacturing PMI (May)",
-      "impact": "High",
-      "forecast": "53.7",
-      "actual": "54.5",
-      "previous": "53.6",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "d593fd2df709682d",
-      "date": "2026-06-03",
-      "time": "10:00",
-      "name": "ISM Non-Manufacturing Prices (May)",
-      "impact": "High",
-      "forecast": "72.3",
-      "actual": "71.3",
-      "previous": "70.7",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "2d2f234bc1090bc0",
-      "date": "2026-06-03",
-      "time": "10:30",
-      "name": "Crude Oil Inventories",
-      "impact": "High",
-      "forecast": "-2.900M",
-      "actual": "-7.974M",
-      "previous": "-3.327M",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "cfe3f5a1d992566d",
       "date": "2026-06-04",
@@ -89,6 +24,45 @@
       "actual": null,
       "previous": null,
       "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "8d3002f94e2457e1",
+      "date": "2026-06-05",
+      "time": "08:30",
+      "name": "Average Hourly Earnings (MoM) (May)",
+      "impact": "High",
+      "forecast": "0.3%",
+      "actual": "0.3%",
+      "previous": "0.2%",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "f76847f0691c9cfd",
+      "date": "2026-06-05",
+      "time": "08:30",
+      "name": "Nonfarm Payrolls (May)",
+      "impact": "High",
+      "forecast": "85K",
+      "actual": "172K",
+      "previous": "179K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "32fc8643a841fe54",
+      "date": "2026-06-05",
+      "time": "08:30",
+      "name": "Unemployment Rate (May)",
+      "impact": "High",
+      "forecast": "4.3%",
+      "actual": "4.3%",
+      "previous": "4.3%",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
