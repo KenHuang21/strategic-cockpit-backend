@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-06-06T22:02:02.946556Z",
+  "updated_at": "2026-06-07T04:12:23.587293Z",
   "events": [
-    {
-      "id": "cfe3f5a1d992566d",
-      "date": "2026-06-04",
-      "time": "08:30",
-      "name": "Initial Jobless Claims",
-      "impact": "High",
-      "forecast": "214K",
-      "actual": "225K",
-      "previous": "212K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "358b87ad08fd2ef6",
-      "date": "2026-06-04",
-      "time": "15:00",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "8d3002f94e2457e1",
       "date": "2026-06-05",
