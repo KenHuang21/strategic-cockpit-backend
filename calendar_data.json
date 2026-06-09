@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T23:59:56.427040Z",
+  "updated_at": "2026-06-09T23:14:36.727444Z",
   "events": [
     {
       "id": "ca5dcc2b8672ec81",
@@ -7,10 +7,10 @@
       "time": "10:00",
       "name": "Existing Home Sales (May)",
       "impact": "High",
-      "forecast": "4.08M",
-      "actual": null,
-      "previous": "4.02M",
-      "status": "upcoming",
+      "forecast": "4.07M",
+      "actual": "4.17M",
+      "previous": "4.04M",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -20,7 +20,7 @@
       "time": "08:30",
       "name": "Core CPI (MoM) (May)",
       "impact": "High",
-      "forecast": "0.5%",
+      "forecast": "0.3%",
       "actual": null,
       "previous": "0.4%",
       "status": "upcoming",
@@ -33,7 +33,7 @@
       "time": "08:30",
       "name": "CPI (MoM) (May)",
       "impact": "High",
-      "forecast": "0.3%",
+      "forecast": "0.5%",
       "actual": null,
       "previous": "0.6%",
       "status": "upcoming",
@@ -59,7 +59,7 @@
       "time": "10:30",
       "name": "Crude Oil Inventories",
       "impact": "High",
-      "forecast": null,
+      "forecast": "-5.100M",
       "actual": null,
       "previous": "-7.974M",
       "status": "upcoming",
