@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T23:14:36.727444Z",
+  "updated_at": "2026-06-11T12:38:32.406582Z",
   "events": [
     {
       "id": "ca5dcc2b8672ec81",
@@ -21,9 +21,9 @@
       "name": "Core CPI (MoM) (May)",
       "impact": "High",
       "forecast": "0.3%",
-      "actual": null,
+      "actual": "0.2%",
       "previous": "0.4%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -34,9 +34,9 @@
       "name": "CPI (MoM) (May)",
       "impact": "High",
       "forecast": "0.5%",
-      "actual": null,
+      "actual": "0.5%",
       "previous": "0.6%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -47,9 +47,9 @@
       "name": "CPI (YoY) (May)",
       "impact": "High",
       "forecast": "4.2%",
-      "actual": null,
+      "actual": "4.2%",
       "previous": "3.8%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -59,10 +59,23 @@
       "time": "10:30",
       "name": "Crude Oil Inventories",
       "impact": "High",
-      "forecast": "-5.100M",
-      "actual": null,
+      "forecast": "-3.000M",
+      "actual": "-7.227M",
       "previous": "-7.974M",
-      "status": "upcoming",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "5e0cdbe32c8d6368",
+      "date": "2026-06-10",
+      "time": "13:00",
+      "name": "10-Year Note Auction",
+      "impact": "High",
+      "forecast": null,
+      "actual": "4.538%",
+      "previous": "4.468%",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
