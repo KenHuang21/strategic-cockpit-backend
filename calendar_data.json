@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-06-11T23:18:42.009712Z",
+  "updated_at": "2026-06-12T02:55:15.525042Z",
   "events": [
-    {
-      "id": "ca5dcc2b8672ec81",
-      "date": "2026-06-09",
-      "time": "10:00",
-      "name": "Existing Home Sales (May)",
-      "impact": "High",
-      "forecast": "4.07M",
-      "actual": "4.17M",
-      "previous": "4.04M",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "4ae54e49837ced71",
       "date": "2026-06-10",
@@ -75,6 +62,32 @@
       "forecast": null,
       "actual": "4.538%",
       "previous": "4.468%",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "092612a1850b7395",
+      "date": "2026-06-11",
+      "time": "08:30",
+      "name": "Initial Jobless Claims",
+      "impact": "High",
+      "forecast": "220K",
+      "actual": "229K",
+      "previous": "225K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "e5cc7a2338b49d37",
+      "date": "2026-06-11",
+      "time": "08:30",
+      "name": "PPI (MoM) (May)",
+      "impact": "High",
+      "forecast": "0.7%",
+      "actual": "1.1%",
+      "previous": "1.1%",
       "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
