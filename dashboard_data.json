@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-18T13:55:05.275895Z",
-  "timestamp_unix": 1781790905,
+  "timestamp": "2026-06-18T16:49:22.018129Z",
+  "timestamp_unix": 1781801362,
   "metrics": {
     "us_10y_yield": 4.43,
     "us_10y_yield_7d_change": -2.8508771929824537,
-    "bitcoin_price": 64024.0,
-    "stablecoin_mcap": 313858360484.1264,
-    "rwa_tvl": 26802350881.95136,
-    "usdt_dominance": 8.139239014830252,
+    "bitcoin_price": 62653.0,
+    "stablecoin_mcap": 313910636098.2388,
+    "rwa_tvl": 26778726472.800102,
+    "usdt_dominance": 8.297990565918905,
     "fed_net_liquidity": 5897268.172,
     "fed_net_liquidity_7d_change": 3.1347867922786508
   },
