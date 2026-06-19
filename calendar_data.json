@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T22:53:25.089349Z",
+  "updated_at": "2026-06-19T11:16:04.902003Z",
   "events": [
     {
       "id": "9c406783c5ba6b29",
@@ -102,6 +102,32 @@
       "actual": null,
       "previous": null,
       "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "4309ff30004a0a0a",
+      "date": "2026-06-18",
+      "time": "08:30",
+      "name": "Initial Jobless Claims",
+      "impact": "High",
+      "forecast": "225K",
+      "actual": "226K",
+      "previous": "230K",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "11602cb84fe1c1e0",
+      "date": "2026-06-18",
+      "time": "08:30",
+      "name": "Philadelphia Fed Manufacturing Index (Jun)",
+      "impact": "High",
+      "forecast": "9.8",
+      "actual": "10.3",
+      "previous": "-0.4",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
