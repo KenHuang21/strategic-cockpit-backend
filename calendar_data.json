@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T21:57:43.250379Z",
+  "updated_at": "2026-06-23T16:23:55.465659Z",
   "events": [
     {
       "id": "b2a97e2aa989290f",
@@ -8,9 +8,9 @@
       "name": "S&P Global Manufacturing PMI (Jun)",
       "impact": "High",
       "forecast": "54.6",
-      "actual": null,
+      "actual": "55.7",
       "previous": "55.1",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -20,10 +20,10 @@
       "time": "09:45",
       "name": "S&P Global Services PMI (Jun)",
       "impact": "High",
-      "forecast": "51.0",
-      "actual": null,
+      "forecast": "51.1",
+      "actual": "51.3",
       "previous": "50.7",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -33,7 +33,7 @@
       "time": "10:00",
       "name": "New Home Sales (May)",
       "impact": "High",
-      "forecast": "637K",
+      "forecast": "638K",
       "actual": null,
       "previous": "622K",
       "status": "upcoming",
