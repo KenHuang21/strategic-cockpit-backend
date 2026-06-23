@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T16:23:55.465659Z",
+  "updated_at": "2026-06-23T23:03:03.251233Z",
   "events": [
     {
       "id": "b2a97e2aa989290f",
@@ -28,14 +28,14 @@
       "notification_sent_release": false
     },
     {
-      "id": "6c2ee54b70fa106e",
-      "date": "2026-06-24",
-      "time": "10:00",
-      "name": "New Home Sales (May)",
+      "id": "82cfeb5d7c342a66",
+      "date": "2026-06-23",
+      "time": "14:05",
+      "name": "U.S. President Trump Speaks",
       "impact": "High",
-      "forecast": "638K",
+      "forecast": null,
       "actual": null,
-      "previous": "622K",
+      "previous": null,
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
