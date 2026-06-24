@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T13:14:14.523539Z",
+  "updated_at": "2026-06-24T22:11:34.950837Z",
   "events": [
     {
       "id": "b2a97e2aa989290f",
@@ -47,9 +47,9 @@
       "name": "New Home Sales (May)",
       "impact": "High",
       "forecast": "638K",
-      "actual": null,
-      "previous": "622K",
-      "status": "upcoming",
+      "actual": "580K",
+      "previous": "626K",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -60,9 +60,9 @@
       "name": "Crude Oil Inventories",
       "impact": "High",
       "forecast": "-3.900M",
-      "actual": null,
+      "actual": "-6.088M",
       "previous": "-8.263M",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
