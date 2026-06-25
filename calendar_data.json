@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T22:11:34.950837Z",
+  "updated_at": "2026-06-25T00:03:35.408442Z",
   "events": [
     {
       "id": "b2a97e2aa989290f",
@@ -63,6 +63,84 @@
       "actual": "-6.088M",
       "previous": "-8.263M",
       "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "9e3f151a61cb34e1",
+      "date": "2026-06-24",
+      "time": "20:30",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "5a6315acf010bf7e",
+      "date": "2026-06-25",
+      "time": "08:30",
+      "name": "Core PCE Price Index (MoM) (May)",
+      "impact": "High",
+      "forecast": "0.3%",
+      "actual": null,
+      "previous": "0.2%",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "a85e4b99b3685ca6",
+      "date": "2026-06-25",
+      "time": "08:30",
+      "name": "Core PCE Price Index (YoY) (May)",
+      "impact": "High",
+      "forecast": "3.4%",
+      "actual": null,
+      "previous": "3.3%",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "b0857bdbc65c3a47",
+      "date": "2026-06-25",
+      "time": "08:30",
+      "name": "Durable Goods Orders (MoM) (May)",
+      "impact": "High",
+      "forecast": "-5.0%",
+      "actual": null,
+      "previous": "8.0%",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "a9a8b7bb748fcefd",
+      "date": "2026-06-25",
+      "time": "08:30",
+      "name": "GDP (QoQ) (Q1)",
+      "impact": "High",
+      "forecast": "1.6%",
+      "actual": null,
+      "previous": "2.0%",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "8268abd88cc2f92e",
+      "date": "2026-06-25",
+      "time": "08:30",
+      "name": "Initial Jobless Claims",
+      "impact": "High",
+      "forecast": "225K",
+      "actual": null,
+      "previous": "226K",
+      "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
