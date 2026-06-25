@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T00:03:35.408442Z",
+  "updated_at": "2026-06-25T14:12:02.674000Z",
   "events": [
     {
       "id": "b2a97e2aa989290f",
@@ -86,9 +86,9 @@
       "name": "Core PCE Price Index (MoM) (May)",
       "impact": "High",
       "forecast": "0.3%",
-      "actual": null,
-      "previous": "0.2%",
-      "status": "upcoming",
+      "actual": "0.3%",
+      "previous": "0.3%",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -99,9 +99,9 @@
       "name": "Core PCE Price Index (YoY) (May)",
       "impact": "High",
       "forecast": "3.4%",
-      "actual": null,
+      "actual": "3.4%",
       "previous": "3.3%",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -112,9 +112,9 @@
       "name": "Durable Goods Orders (MoM) (May)",
       "impact": "High",
       "forecast": "-5.0%",
-      "actual": null,
-      "previous": "8.0%",
-      "status": "upcoming",
+      "actual": "-4.5%",
+      "previous": "8.5%",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -125,9 +125,9 @@
       "name": "GDP (QoQ) (Q1)",
       "impact": "High",
       "forecast": "1.6%",
-      "actual": null,
-      "previous": "2.0%",
-      "status": "upcoming",
+      "actual": "2.1%",
+      "previous": "0.5%",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -138,9 +138,9 @@
       "name": "Initial Jobless Claims",
       "impact": "High",
       "forecast": "225K",
-      "actual": null,
-      "previous": "226K",
-      "status": "upcoming",
+      "actual": "215K",
+      "previous": "227K",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
