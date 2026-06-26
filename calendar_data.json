@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T02:45:23.726105Z",
+  "updated_at": "2026-06-26T23:59:25.658852Z",
   "events": [
     {
       "id": "6c2ee54b70fa106e",
@@ -102,6 +102,19 @@
       "actual": "215K",
       "previous": "227K",
       "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "87c1c2aaab24a720",
+      "date": "2026-06-26",
+      "time": "13:30",
+      "name": "U.S. President Trump Speaks",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": null,
+      "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
