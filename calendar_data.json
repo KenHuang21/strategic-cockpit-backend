@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-06-25T23:11:37.038800Z",
+  "updated_at": "2026-06-26T02:45:23.726105Z",
   "events": [
-    {
-      "id": "b2a97e2aa989290f",
-      "date": "2026-06-23",
-      "time": "09:45",
-      "name": "S&P Global Manufacturing PMI (Jun)",
-      "impact": "High",
-      "forecast": "54.6",
-      "actual": "55.7",
-      "previous": "55.1",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "b1380a57d3ab101e",
-      "date": "2026-06-23",
-      "time": "09:45",
-      "name": "S&P Global Services PMI (Jun)",
-      "impact": "High",
-      "forecast": "51.1",
-      "actual": "51.3",
-      "previous": "50.7",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "82cfeb5d7c342a66",
-      "date": "2026-06-23",
-      "time": "14:05",
-      "name": "U.S. President Trump Speaks",
-      "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "6c2ee54b70fa106e",
       "date": "2026-06-24",
