@@ -1,16 +1,42 @@
 {
-  "updated_at": "2026-06-28T23:02:45.675757Z",
+  "updated_at": "2026-07-02T02:41:27.184207Z",
   "events": [
     {
-      "id": "87c1c2aaab24a720",
-      "date": "2026-06-26",
-      "time": "13:30",
-      "name": "U.S. President Trump Speaks",
+      "id": "a1f050280c898018",
+      "date": "2026-06-30",
+      "time": "09:45",
+      "name": "Chicago PMI (Jun)",
       "impact": "High",
-      "forecast": null,
-      "actual": null,
-      "previous": null,
-      "status": "upcoming",
+      "forecast": "55.7",
+      "actual": "56.7",
+      "previous": "62.7",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "ef93d2165f71ec7f",
+      "date": "2026-06-30",
+      "time": "10:00",
+      "name": "CB Consumer Confidence (Jun)",
+      "impact": "High",
+      "forecast": "94.4",
+      "actual": "91.2",
+      "previous": "90.6",
+      "status": "completed",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "7bd900f17b6109e0",
+      "date": "2026-06-30",
+      "time": "10:00",
+      "name": "JOLTS Job Openings (May)",
+      "impact": "High",
+      "forecast": "7.280M",
+      "actual": "7.594M",
+      "previous": "7.585M",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
