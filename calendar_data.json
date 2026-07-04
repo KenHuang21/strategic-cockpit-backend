@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T15:00:39.571110Z",
+  "updated_at": "2026-07-04T16:57:23.085744Z",
   "events": [
     {
       "id": "20e0b33f96de8ae1",
@@ -72,7 +72,7 @@
       "time": "10:00",
       "name": "ISM Non-Manufacturing PMI (Jun)",
       "impact": "High",
-      "forecast": null,
+      "forecast": "54.2",
       "actual": null,
       "previous": "54.5",
       "status": "upcoming",
