@@ -1,58 +1,6 @@
 {
-  "updated_at": "2026-07-04T23:56:12.683780Z",
+  "updated_at": "2026-07-07T02:31:01.906276Z",
   "events": [
-    {
-      "id": "20e0b33f96de8ae1",
-      "date": "2026-07-02",
-      "time": "08:30",
-      "name": "Average Hourly Earnings (MoM) (Jun)",
-      "impact": "High",
-      "forecast": "0.3%",
-      "actual": "0.3%",
-      "previous": "0.3%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "ad275acfa33f82c6",
-      "date": "2026-07-02",
-      "time": "08:30",
-      "name": "Initial Jobless Claims",
-      "impact": "High",
-      "forecast": "219K",
-      "actual": "215K",
-      "previous": "216K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "26b3e725151771ab",
-      "date": "2026-07-02",
-      "time": "08:30",
-      "name": "Nonfarm Payrolls (Jun)",
-      "impact": "High",
-      "forecast": "114K",
-      "actual": "57K",
-      "previous": "129K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "b87fd8c04db6ece5",
-      "date": "2026-07-02",
-      "time": "08:30",
-      "name": "Unemployment Rate (Jun)",
-      "impact": "High",
-      "forecast": "4.3%",
-      "actual": "4.2%",
-      "previous": "4.3%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "ec15e95e057de568",
       "date": "2026-07-06",
@@ -60,9 +8,9 @@
       "name": "S&P Global Services PMI (Jun)",
       "impact": "High",
       "forecast": "51.3",
-      "actual": null,
+      "actual": "51.2",
       "previous": "51.3",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -73,9 +21,9 @@
       "name": "ISM Non-Manufacturing PMI (Jun)",
       "impact": "High",
       "forecast": "54.2",
-      "actual": null,
+      "actual": "54.0",
       "previous": "54.5",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     },
@@ -85,10 +33,10 @@
       "time": "10:00",
       "name": "ISM Non-Manufacturing Prices (Jun)",
       "impact": "High",
-      "forecast": null,
-      "actual": null,
+      "forecast": "67.5",
+      "actual": "67.7",
       "previous": "71.3",
-      "status": "upcoming",
+      "status": "completed",
       "notification_sent_12h": false,
       "notification_sent_release": false
     }
