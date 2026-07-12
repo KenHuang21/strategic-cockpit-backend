@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-07-11T22:40:27.570029Z",
+  "updated_at": "2026-07-12T14:50:00.445755Z",
   "events": [
-    {
-      "id": "5bf5b4dd05942d41",
-      "date": "2026-07-09",
-      "time": "08:30",
-      "name": "Initial Jobless Claims",
-      "impact": "High",
-      "forecast": "218K",
-      "actual": "215K",
-      "previous": "217K",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "00a00390e17c3568",
-      "date": "2026-07-09",
-      "time": "10:00",
-      "name": "Existing Home Sales (Jun)",
-      "impact": "High",
-      "forecast": "4.19M",
-      "actual": "4.09M",
-      "previous": "4.19M",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
-    {
-      "id": "3d1fd45f69da6d8e",
-      "date": "2026-07-09",
-      "time": "13:01",
-      "name": "30-Year Bond Auction",
-      "impact": "High",
-      "forecast": null,
-      "actual": "5.058%",
-      "previous": "5.050%",
-      "status": "completed",
-      "notification_sent_12h": false,
-      "notification_sent_release": false
-    },
     {
       "id": "8681d9907a641ca3",
       "date": "2026-07-10",
@@ -49,6 +10,45 @@
       "forecast": null,
       "actual": null,
       "previous": null,
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "9fe4ef22700c24f0",
+      "date": "2026-07-14",
+      "time": "08:30",
+      "name": "Core CPI (MoM) (Jun)",
+      "impact": "High",
+      "forecast": "0.3%",
+      "actual": null,
+      "previous": "0.2%",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "557eaa69f15bc10c",
+      "date": "2026-07-14",
+      "time": "08:30",
+      "name": "CPI (MoM) (Jun)",
+      "impact": "High",
+      "forecast": "-0.1%",
+      "actual": null,
+      "previous": "0.5%",
+      "status": "upcoming",
+      "notification_sent_12h": false,
+      "notification_sent_release": false
+    },
+    {
+      "id": "4902f6f46eada3b4",
+      "date": "2026-07-14",
+      "time": "08:30",
+      "name": "CPI (YoY) (Jun)",
+      "impact": "High",
+      "forecast": null,
+      "actual": null,
+      "previous": "4.2%",
       "status": "upcoming",
       "notification_sent_12h": false,
       "notification_sent_release": false
